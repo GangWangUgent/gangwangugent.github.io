@@ -16,7 +16,7 @@ redirect_from:
 
 Education Background
 -
-* 2015-2019   KERMIT[explain](https://kermit.ugent.be/ "KERMIT"), Ghent University, Belgium, Ph.D.
+* 2015-2019   [KERMIT](https://kermit.ugent.be/ "KERMIT"), Ghent University, Belgium, Ph.D.
 * 2014-2019   AEC, China, Ph.D.
 * 2011-2013   AEC, China, M.Sc.
 * 2007-2011   Dalian Maritime University, China, B.Sc.
