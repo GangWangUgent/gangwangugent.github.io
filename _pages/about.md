@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Vice Director/Assoc. Prof., Brain Research Center, Beijing Institute of Basic Medical Sciences
-Director, Neuro-AI Vision Engineering (NAIVE) Lab
-Youth Prof., Chinese Institute for Brain Research, China (CIBR)
-Assoc. Prof., University of Electronic Science and Technology of China (UESTC)
+Vice Director/Assoc. Prof., Brain Research Center, Beijing Institute of Basic Medical Sciences\\
+Director, Neuro-AI Vision Engineering (NAIVE) Lab\\
+Youth Prof., Chinese Institute for Brain Research, China (CIBR)\\
+Assoc. Prof., University of Electronic Science and Technology of China (UESTC)\\
 
 
 Research/Education Background
 ======
-· 2022-now  University of Electronic Science and Technology of China (UESTC)
-· 2021-now  Chinese Institute for Brain Research, China (CIBR)
-· 2019-now  Assoc. Prof., Brain Research Center, Beijing Institute of Basic Medical Sciences
+· 2022-now  University of Electronic Science and Technology of China (UESTC) </p>
+· 2021-now  Chinese Institute for Brain Research, China (CIBR) </p>
+· 2019-now  Assoc. Prof., Brain Research Center, Beijing Institute of Basic Medical Sciences </p>
 · 2015-2019 Ghent University, Ph.D.
 · 2014-2019 AEC, Ph.D.
 · 2011-2013 AEC, M.Sc.
