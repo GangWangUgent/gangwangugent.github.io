@@ -53,7 +53,14 @@ Selected Publications
 
 Acknowledgement
 -
-* **National Natural Science Fundation of China**
-* **National Natural Science Fundation of Beijing** 
-* **Beijing Nova Program**
-* **Beijing CIBR Young Scholar Fund**
+* *National Natural Science Fundation of China*
+* *National Natural Science Fundation of Beijing* 
+* *Beijing Nova Program*
+* *Beijing CIBR Young Scholar Fund*
+
+
+Mentorship & Partnership
+-
+* **[Yizheng Wang], Professor, CAS Member, BIBMS/Fudan University
+* **[Bernard De Baets], Professor, President of EUSFLAT, Ghent University
+* **[Carlos Lopez-Molina], Professor, Universidad Publica de Navarrra
