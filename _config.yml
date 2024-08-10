@@ -14,7 +14,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-wanggang-realmadrid.jpg"
   name             : "Gang Wang (王剛)"
   pronouns         : # example: "she/her"  
   bio              : "Tiny video-object detection"
