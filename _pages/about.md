@@ -14,15 +14,12 @@ redirect_from:
 
 
 
-Research/Education Background
+Education Background
 -
-· 2022-now    \& University of Electronic Science and Technology of China (UESTC) \\
-· 2021-now    \& Chinese Institute for Brain Research, China (CIBR) \\
-· 2019-now    Assoc. Prof., Brain Research Center, Beijing Institute of Basic Medical Sciences \\
-· 2015-2019   Ghent University, Ph.D.\\
-· 2014-2019   AEC, Ph.D.\\
-· 2011-2013   AEC, M.Sc.\\
-· 2007-2011   Dalian Maritime University, B.Sc.
+· 2015-2019   Ghent University, Belgium, Ph.D.\\
+· 2014-2019   AEC, China, Ph.D.\\
+· 2011-2013   AEC, China, M.Sc.\\
+· 2007-2011   Dalian Maritime University, China, B.Sc.
 
 
 
