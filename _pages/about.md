@@ -12,7 +12,7 @@ Director                   Neuro-AI Vision Engineering (NAIVE) Lab\\
 Youth Prof.                Chinese Institute for Brain Research, China (CIBR)\\
 Assoc. Prof.               University of Electronic Science and Technology of China (UESTC)
 
-| Entry            | Item   |                                                              |
+ Entry             Item                                                                
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
