@@ -55,12 +55,12 @@ Acknowledgement
 -
 * *National Natural Science Fundation of China*
 * *National Natural Science Fundation of Beijing* 
-* *Beijing Nova Program*
+* *Beijing Nova Program Fund*
 * *Beijing CIBR Young Scholar Fund*
 
 
 Mentorship & Partnership
 -
-* [Yi-zheng Wang](https://casad.cas.cn/ysxx2022/ysmd/smkx/202201/t20220111_4821762.html), Professor, CAS Member, BIBMS/Fudan University
-* [Bernard De Baets](https://ai.ugent.be/people/BernardDeBaets.en.html), Professor, President of EUSFLAT, Ghent University
+* [Yi-zheng Wang](https://casad.cas.cn/ysxx2022/ysmd/smkx/202201/t20220111_4821762.html), Professor, CAS Member(中科院院士), BIBMS/Fudan University
+* [Bernard De Baets](https://ai.ugent.be/people/BernardDeBaets.en.html), Professor, former President of EUSFLAT, Ghent University
 * [Carlos Lopez-Molina](https://www.unavarra.es/pdi?uid=810097&dato=tutorias), Professor, Universidad Publica de Navarrra
