@@ -29,18 +29,18 @@ Academic Services
 * **Committee Member**, Chinese Neuroscience Society (CNS), Youth Affairs Committee
 * **AE**, Journal of Electronics & Information Technology
 * **Reviewer**, NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR, etc.
+* **Keynote Speaker**, CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar, etc.
 
 
-Selected Honors
+Selected Honors & Awards
 -
 * **Young Talent on Science and Technology**, from the Chinese Government
 * **Beijing Nova Program**, from the Beijing Municipal Sci&Tech Commission
-* **1st Prize of the CVPR Anti-UAV Challenge** (track 2),  from the CVPR2023 Anti-UAV Challenge{: .notice}
+* **Beijing CIBR Young Scholar**, from the Beijing Municipal Sci&Tech Commission
+* **1st Prize of the CVPR Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Challenge
 * **1st Prize of the IDS Image Denoising Competition**, from the IDS2016
 * **Best Student Paper Nomination**, from the EUSFLAT2017
 * **Best Student Thesis Nomination**, from the BNAIC2019
-* **Beijing CIBR Young Scholar**, from the Beijing Municipal Sci&Tech Commission
-
 
 Selected Publications
 -
@@ -48,3 +48,12 @@ Selected Publications
 [2] \\
 [3] \\
 [4] \\
+
+
+
+Acknowledgement
+-
+* **National Natural Science Fundation of China**
+* **National Natural Science Fundation of Beijing** 
+* **Beijing Nova Program**
+* **Beijing CIBR Young Scholar Fund**
