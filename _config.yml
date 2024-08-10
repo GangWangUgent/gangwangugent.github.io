@@ -12,7 +12,7 @@ title                    : "Gang Wang"
 title_separator          : "-"
 name                     : &name "Gang Wang (王剛)"
 description              : &description "personal description"
-url                      : https://https://gangwangugent.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gangwangugent.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
