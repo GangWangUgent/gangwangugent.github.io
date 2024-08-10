@@ -61,6 +61,6 @@ Acknowledgement
 
 Mentorship & Partnership
 -
-* **[Yizheng Wang], Professor, CAS Member, BIBMS/Fudan University
-* **[Bernard De Baets], Professor, President of EUSFLAT, Ghent University
-* **[Carlos Lopez-Molina], Professor, Universidad Publica de Navarrra
+* [Yi-zheng Wang](https://casad.cas.cn/ysxx2022/ysmd/smkx/202201/t20220111_4821762.html), Professor, CAS Member, BIBMS/Fudan University
+* [Bernard De Baets](https://ai.ugent.be/people/BernardDeBaets.en.html), Professor, President of EUSFLAT, Ghent University
+* [Carlos Lopez-Molina](https://www.unavarra.es/pdi?uid=810097&dato=tutorias), Professor, Universidad Publica de Navarrra
