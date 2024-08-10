@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Currently"
-author_profile: false
+title: "Gang WANG"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
