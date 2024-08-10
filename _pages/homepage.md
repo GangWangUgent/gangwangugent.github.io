@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gang WANG 王剛 (NAIVE Lab)"
+title: "Gang WANG王剛  (NAIVE Lab)"
 author_profile: true
 redirect_from: 
   - /homepage/
@@ -15,6 +15,8 @@ News & Events
 -
 * 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
 * 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
+* On July 28, 2024, gave a talk in CCDM2024 titled '*Visual Motion Computing: Bio-models vs CV models*'.
+* On July 13, 2024, gave a talk in ISNN2024 titled '*Bio-inspired Visual Motion Saliency Estimation for Small Video Objects with Applications*'.
 
 
 Education Background
