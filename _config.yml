@@ -1,7 +1,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gang Wang"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Gang Wang (王剛)"
 description              : &description "personal description"
