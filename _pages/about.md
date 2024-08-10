@@ -7,10 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Vice Director/Assoc. Prof.~~~  Brain Research Center, Beijing Institute of Basic Medical Sciences\\
-Director~~~                    Neuro-AI Vision Engineering (NAIVE) Lab\\
-Youth Prof.~~~                 Chinese Institute for Brain Research, China (CIBR)\\
-Assoc. Prof.~~~                University of Electronic Science and Technology of China (UESTC)
+Vice Director/Assoc. Prof. Brain Research Center, Beijing Institute of Basic Medical Sciences\\
+Director                   Neuro-AI Vision Engineering (NAIVE) Lab\\
+Youth Prof.                Chinese Institute for Brain Research, China (CIBR)\\
+Assoc. Prof.               University of Electronic Science and Technology of China (UESTC)
+
+## Tables
+
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 
 Research/Education Background
