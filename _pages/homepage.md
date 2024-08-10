@@ -6,26 +6,23 @@ redirect_from:
   - /homepage/
 ---
 
+* **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS
+* **Director**,                       Neuro-AI Vision Engineering (NAIVE) Lab
+* **Youth Professor**,                Chinese Institute for Brain Research, China (CIBR)
+* **Assoc. Professor**,               University of Electronic Science and Technology of China (UESTC)
+
 News & Events
 -
 * 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
 * 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
 
 
-
-* **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS
-* **Director**,                       Neuro-AI Vision Engineering (NAIVE) Lab
-* **Youth Professor**,                Chinese Institute for Brain Research, China (CIBR)
-* **Assoc. Professor**,               University of Electronic Science and Technology of China (UESTC)
-
-
-
 Education Background
 -
-* 1st Ph.D. in [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
-* 2nd Ph.D. in A. Engineering University, China, 2019
-* M.Sc. in A. Engineering University, China, 2013
-* B.Sc. in [Dalian Maritime University](https://en.wikipedia.org/wiki/Dalian_Maritime_University), China, 2011.
+* PhD-1 in [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
+* PhD-2 in A. Engineer. University, China, 2019
+* MSc in A. Engineer. University, China, 2013
+* BSc in [Dalian Maritime University](https://en.wikipedia.org/wiki/Dalian_Maritime_University), China, 2011.
 
 
 
