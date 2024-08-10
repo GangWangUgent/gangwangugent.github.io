@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: "Gang WANG 王剛 (NAIVE Lab)"
+layout: archive
+title: "Join Us"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /teaching
 ---
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS
