@@ -3,13 +3,19 @@ permalink: /
 title: "Gang WANG 王剛 (NAIVE Lab)"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /homepage/
 ---
+
+News & Events
+-
+* 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
+* 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
+
+
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS
 * **Director**,                       Neuro-AI Vision Engineering (NAIVE) Lab
-* **Youth Professor**,               Chinese Institute for Brain Research, China (CIBR)
+* **Youth Professor**,                Chinese Institute for Brain Research, China (CIBR)
 * **Assoc. Professor**,               University of Electronic Science and Technology of China (UESTC)
 
 
@@ -25,11 +31,11 @@ Education Background
 
 Academic Services
 -
-* **Deputy Secretary-General**, Chinese Neuroscience Society (CNS), Brain-inspired Intelligence Branch
-* **Committee Member**, Chinese Neuroscience Society (CNS), Youth Affairs Committee
-* **AE**, Journal of Electronics & Information Technology
-* **Reviewer**, NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR, etc.
-* **Keynote Speaker**, CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar, etc.
+* **Deputy Secretary-General**, *Chinese Neuroscience Society (CNS), Brain-inspired Intelligence Branch*
+* **Committee Member**, *Chinese Neuroscience Society (CNS), Youth Affairs Committee*
+* **AE**, *Journal of Electronics & Information Technology*
+* **Reviewer**, *NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR*, etc.
+* **Keynote Speaker**, *CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar,* etc.
 
 
 Selected Honors & Awards
