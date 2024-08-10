@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gang WANG"
+title: "Gang WANG (NAIVE Lab)"
 author_profile: true
 redirect_from: 
   - /about/
