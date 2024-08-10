@@ -1,7 +1,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Gang WANG"
 description              : &description "personal description"
@@ -189,16 +189,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
