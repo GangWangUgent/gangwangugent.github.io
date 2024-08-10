@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Nice to meet you here! I received the PhD degree from Ghent University, Belgium, in 2019, the Master Degree from AEC, China, in 2013.
+Vice Director/Associate Professor, Brain Research Center, Beijing Institute of Basic Medical Sciences
+Director, Neuro-AI Vision Engineering (NAIVE) Lab
+Youth Professor, Chinese Institute for Brain Research, China (CIBR)
+Associate Professor, University of Electronic Science and Technology of China (UESTC)
+
+
+
+
 
 A data-driven personal website
 ======
