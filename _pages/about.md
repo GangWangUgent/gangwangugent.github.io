@@ -35,9 +35,10 @@ Selected Honors
 -
 * **Young Talent on Science and Technology**, from the Chinese Government
 * **Beijing Nova Program**, from the Beijing Municipal Sci&Tech Commission
-* **1st Prize of the CVPR20223 Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Organizing Committee
-* **1st Prize of the IDS2016 Image Denoising Competition**, from the IDS2016 Organizing Committee
-* **Best Student Paper Nomination**, from the EUSFLAT2017 Organizing Committee
+* **1st Prize of the CVPR20223 Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Challenge
+* **1st Prize of the IDS2016 Image Denoising Competition**, from the IDS2016
+* **Best Student Paper Nomination**, from the EUSFLAT2017
+* **Best Student Thesis Nomination**, from the BNAIC2019
 * **Beijing CIBR Young Scholar**, from the Beijing Municipal Sci&Tech Commission
 
 
