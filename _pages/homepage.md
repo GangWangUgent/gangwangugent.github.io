@@ -52,7 +52,7 @@ Selected Publications
 -
 1. **Gang Wang**#*, Xin Yang#, Liang Li, Kai Gao, Jin Gao, Jiayi Zhang, Dajun Xing, Yizheng Wang. Tiny drone object detection in videos guided by the bio-inspired magnocellular computation model[J]. Applied Soft Computing, 2024: 111892.  
 2. **Gang Wang**#*, Carlos Lopez-Molina, Bernard De Baets. High-ISO long-exposure image denoising based on quantitative blob characterization, IEEE Transactions on Image Processing, 2020, 29: 5993-6005.
-3. Bo Huang, Jianan Li, Junjie Chen, **Gang Wang***, Jian Zhao*, Tingfa Xu*. Anti-UAV410: A Thermal Infrared Benchmark and Customized Scheme for Tracking Drones in the Wild[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023 (01): 1-14.
+3. Bo Huang, Jianan Li, Junjie Chen, **Gang Wang***, Jian Zhao*, Tingfa Xu*. Anti-UAV410: A Thermal Infrared Benchmark and Customized Scheme for Tracking Drones in the Wild[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46(5): 2852-2865.
 4. Zizheng Xun#, Shangzhe Di#, Yulu Gao, Zongheng Tang, **Gang Wang***, Si Liu, Bo Li. Linker: Learning Long Short-term Associations for Robust Visual Tracking [J]. IEEE Transactions on Multimedia. 2024(26): 6228-6237.
 5. Fengguang Peng, Zihan Ding, Ziming Chen, **Gang Wang***, Tianrui Hui, Si Liu, Hang Shi. Region-adaptive and context-complementary cross modulation for RGB-T semantic segmentation[J]. Pattern Recognition, 2023: 110092. 
 
