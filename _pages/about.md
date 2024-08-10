@@ -33,11 +33,12 @@ Academic Services
 
 Selected Honors
 -
-* **Beijing Nova Program**, from the Beijing Government
+* **Young Talent on Science and Technology**, from the Chinese Government
+* **Beijing Nova Program**, from the Beijing Municipal Sci&Tech Commission
 * **1st Prize of the CVPR20223 Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Organizing Committee
 * **1st Prize of the IDS2016 Image Denoising Competition**, from the IDS2016 Organizing Committee
 * **Best Student Paper Nomination**, from the EUSFLAT2017 Organizing Committee
-* **Beijing CIBR Young Scholar**, from the Beijing Government
+* **Beijing CIBR Young Scholar**, from the Beijing Municipal Sci&Tech Commission
 
 
 Selected Publications
