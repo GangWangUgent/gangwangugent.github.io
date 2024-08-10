@@ -16,10 +16,10 @@ redirect_from:
 
 Education Background
 -
-* 2015-2019   [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 1st Ph.D.
-* 2014-2019   A. Engineering University, China, 2nd Ph.D.
-* 2011-2013   A. Engineering University, China, M.Sc.
-* 2007-2011   [Dalian Maritime University](https://en.wikipedia.org/wiki/Dalian_Maritime_University), China, B.Sc.
+* 1st Ph.D. in [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
+* 2nd Ph.D. in A. Engineering University, China, 2019
+* M.Sc. in A. Engineering University, China, 2013
+* B.Sc. in [Dalian Maritime University](https://en.wikipedia.org/wiki/Dalian_Maritime_University), China, 2011.
 
 
 
