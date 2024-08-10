@@ -15,7 +15,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile-wanggang-realmadrid.jpg"
-  name             : "Gang Wang (王剛)"
+  name             : "Gang Wang"
   pronouns         : # example: "she/her"  
   bio              : "image processing, computer vision, neuroscience"
   location         : "Beijing, China"
