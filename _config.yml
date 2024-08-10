@@ -3,7 +3,7 @@
 locale                   : "en-US"
 title                    : "Welcome"
 title_separator          : "-"
-name                     : &name "Gang Wang (王剛)"
+name                     : &name "Gang WANG"
 description              : &description "personal description"
 url                      : https://gangwangugent.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -19,7 +19,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "image processing, computer vision, neuroscience"
   location         : "Beijing, China"
-  employer         : "CIBR, UESTC"
+  employer         : "UGent, CIBR, UESTC"
   uri              : # URL
   email            : "g_wang@foxmail.com" 
 
