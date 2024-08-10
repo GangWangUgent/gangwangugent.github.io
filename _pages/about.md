@@ -25,20 +25,19 @@ Education Background
 
 Academic Services
 -
-1. AE
-2. AE
-3. Member
-4. Member
-5. Member
+* **Deputy Secretary-General**, Chinese Neuroscience Society (CNS), Brain-inspired Intelligence Branch
+* **Committee Member**, Chinese Neuroscience Society (CNS), Youth Affairs Committee
+* **AE**, Journal of Electronics & Information Technology
+* **Reviewer**, NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR, etc.
 
 
 Selected Honors
 -
-1. 
-2. 
-3. 
-4. 
-5. 
+* **Beijing Nova Program**, from the Beijing Government
+* **1st Prize of the CVPR20223 Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Organizing Committee
+* **1st Prize of the IDS2016 Image Denoising Competition**, from the IDS2016 Organizing Committee
+* **Best Student Paper Nomination**, from the EUSFLAT2017 Organizing Committee
+* **Beijing CIBR Young Scholar**, from the Beijing Government
 
 
 Selected Publications
