@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Vice Director/Assoc. Prof. Brain Research Center, Beijing Institute of Basic Medical Sciences\\
-Director                   Neuro-AI Vision Engineering (NAIVE) Lab\\
-Youth Prof.                Chinese Institute for Brain Research, China (CIBR)\\
-Assoc. Prof.               University of Electronic Science and Technology of China (UESTC)
+**Vice Director/Assoc. Prof.** Brain Research Center, Beijing Institute of Basic Medical Sciences\\
+**Director**                   Neuro-AI Vision Engineering (NAIVE) Lab\\
+**Youth Prof.**                Chinese Institute for Brain Research, China (CIBR)\\
+**Assoc. Prof.**               University of Electronic Science and Technology of China (UESTC)
 
 
 
