@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Join Us"
-permalink: /teaching/
+permalink: /joinus/
 author_profile: true
 redirect_from:
-  - /teaching
+  - /joinus
 ---
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS
