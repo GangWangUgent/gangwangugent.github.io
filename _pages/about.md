@@ -53,8 +53,8 @@ Selected Publications
 
 Acknowledgement
 -
-* *National Natural Science Fundation of China*
-* *National Natural Science Fundation of Beijing* 
+* *National Natural Science Fundation of China (NSFC)*
+* *Beijing Natural Science Foundation* 
 * *Beijing Nova Program Fund*
 * *Beijing CIBR Young Scholar Fund*
 
