@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the PhD degree from Ghent University, Belgium.
+Nice to meet you here! I received the PhD degree from Ghent University, Belgium.
 
 A data-driven personal website
 ======
