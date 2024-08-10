@@ -16,8 +16,8 @@ News & Events
 -
 * 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
 * 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
-* On July 28, 2024, gave a talk in CCDM2024 titled '*Visual Motion Computing: Bio-models vs CV models*'.
-* On July 13, 2024, gave a talk in ISNN2024 titled '*Bio-inspired Visual Motion Saliency Estimation for Small Video Objects with Applications*'.
+* July 28, 2024, gave a talk in CCDM2024 titled '*Visual Motion Computing: Bio-models vs CV models*'.
+* July 13, 2024, gave a talk in ISNN2024 titled '*Bio-inspired Visual Motion Saliency Estimation for Small Video Objects with Applications*'.
 
 
 Education Background
@@ -50,10 +50,12 @@ Selected Honors & Awards
 
 Selected Publications
 -
-[1] \\
-[2] \\
-[3] \\
-[4] \\
+1. **Gang Wang**#*, Xin Yang#, Liang Li, Kai Gao, Jin Gao, Jiayi Zhang, Dajun Xing, Yizheng Wang. Tiny drone object detection in videos guided by the bio-inspired magnocellular computation model[J]. Applied Soft Computing, 2024: 111892.  
+2. **Gang Wang**#*, Carlos Lopez-Molina, Bernard De Baets. High-ISO long-exposure image denoising based on quantitative blob characterization, IEEE Transactions on Image Processing, 2020, 29: 5993-6005.
+3. Bo Huang, Jianan Li, Junjie Chen, **Gang Wang***, Jian Zhao*, Tingfa Xu*. Anti-UAV410: A Thermal Infrared Benchmark and Customized Scheme for Tracking Drones in the Wild[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023 (01): 1-14.
+4. Zizheng Xun#, Shangzhe Di#, Yulu Gao, Zongheng Tang, **Gang Wang***, Si Liu, Bo Li. Linker: Learning Long Short-term Associations for Robust Visual Tracking [J]. IEEE Transactions on Multimedia. 2024(26): 6228-6237.
+5. Fengguang Peng, Zihan Ding, Ziming Chen, **Gang Wang***, Tianrui Hui, Si Liu, Hang Shi. Region-adaptive and context-complementary cross modulation for RGB-T semantic segmentation[J]. Pattern Recognition, 2023: 110092. 
+
 
 
 Funds
