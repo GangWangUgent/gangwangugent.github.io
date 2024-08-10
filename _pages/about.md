@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Nice to meet you here! I received the PhD degree from Ghent University, Belgium.
+Nice to meet you here! I received the PhD degree from Ghent University, Belgium, in 2019, the Master Degree from AEC, China, in 2013.
 
 A data-driven personal website
 ======
