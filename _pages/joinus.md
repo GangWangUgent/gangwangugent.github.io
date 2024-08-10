@@ -7,60 +7,20 @@ redirect_from:
   - /joinus
 ---
 
-* **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS
-* **Director**,                       Neuro-AI Vision Engineering (NAIVE) Lab
-* **Youth Professor**,               Chinese Institute for Brain Research, China (CIBR)
-* **Assoc. Professor**,               University of Electronic Science and Technology of China (UESTC)
-
-
-
-Education Background
+NAIVE实验室简介
 -
-* 1st Ph.D. in [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
-* 2nd Ph.D. in A. Engineering University, China, 2019
-* M.Sc. in A. Engineering University, China, 2013
-* B.Sc. in [Dalian Maritime University](https://en.wikipedia.org/wiki/Dalian_Maritime_University), China, 2011.
+NAIVE实验室位于北京市海淀区五棵松附近，是依托三个省部级实验室建立的“神经科学-智能科学”交叉研究型实验室，具有动物神经机制解析、类脑算法开发、系统开发应用等全链条平台，能够支撑从“湿实验室”到“干实验室”的多层次类脑智能研究。实验室人才梯队合理，科研实力雄厚，项目经费充足，学术成果丰硕，工作氛围极佳。实验室与国内十多家top大学、科研机构及央企建立了长期稳定的协同创新合作框架，已有多项先进技术获得实际应用，创造了良好的经济效益和社会价值。
 
-
-
-Academic Services
+Recruitment
 -
-* **Deputy Secretary-General**, Chinese Neuroscience Society (CNS), Brain-inspired Intelligence Branch
-* **Committee Member**, Chinese Neuroscience Society (CNS), Youth Affairs Committee
-* **AE**, Journal of Electronics & Information Technology
-* **Reviewer**, NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR, etc.
-* **Keynote Speaker**, CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar, etc.
+我们长期招收硕士生、博士生、进修生、实习生、联培生等，实验室有充足的计算资源和智力资源，每月享受北京地区极具竞争力的科研补助，提供到国内外科研机构和企业交流学习机会，表现优异者可获得各种推荐机会。欢迎从事计算机视觉、智能系统、统计学习、图像处理、生物视觉、计算神经科学、软件工程、光电工程等领域的同学提交申请。
+联系人：王老师
+邮箱：g_wang@foxmail.com
 
-
-Selected Honors & Awards
+Recruitment
 -
-* **Young Talent on Science and Technology**, from the Chinese Government
-* **Beijing Nova Program**, from the Beijing Municipal Sci&Tech Commission
-* **Beijing CIBR Young Scholar**, from the Beijing Municipal Sci&Tech Commission
-* **1st Prize of the CVPR Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Challenge
-* **1st Prize of the IDS Image Denoising Competition**, from the IDS2016
-* **Best Student Paper Nomination**, from the EUSFLAT2017
-* **Best Student Thesis Nomination**, from the BNAIC2019
-
-Selected Publications
--
-[1] \\
-[2] \\
-[3] \\
-[4] \\
-
-
-
-Acknowledgement
--
-* *National Natural Science Fundation of China (NSFC)*
-* *Beijing Natural Science Foundation* 
-* *Beijing Nova Program Fund*
-* *Beijing CIBR Young Scholar Fund*
-
-
-Mentorship & Partnership
--
-* [Yi-zheng Wang](https://casad.cas.cn/ysxx2022/ysmd/smkx/202201/t20220111_4821762.html), Professor, CAS Member(中科院院士), BIBMS/Fudan University
-* [Bernard De Baets](https://ai.ugent.be/people/BernardDeBaets.en.html), Professor, former President of EUSFLAT, Ghent University
-* [Carlos Lopez-Molina](https://www.unavarra.es/pdi?uid=810097&dato=tutorias), Professor, Universidad Publica de Navarrr
+* 实验室拟招聘工程师/科研助理，要求硕士及以上学历，熟练掌握python等编程语言，熟悉神经机制解析/计算机视觉/机器学习/计算神经科学/光电工程等任一方向，科研态度端正。
+* 薪酬远超北京市平均工资水平，享受五险一金和单位相应待遇。
+* 工作地点位于北京市海淀区永定路街道。
+联系人：王老师
+邮箱：g_wang@foxmail.com
