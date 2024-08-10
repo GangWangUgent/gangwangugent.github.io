@@ -10,29 +10,28 @@ redirect_from:
 Vice Director/Assoc. Prof., Brain Research Center, Beijing Institute of Basic Medical Sciences\\
 Director, Neuro-AI Vision Engineering (NAIVE) Lab\\
 Youth Prof., Chinese Institute for Brain Research, China (CIBR)\\
-Assoc. Prof., University of Electronic Science and Technology of China (UESTC)\\
+Assoc. Prof., University of Electronic Science and Technology of China (UESTC)\
 
 
 Research/Education Background
 ======
-· 2022-now  University of Electronic Science and Technology of China (UESTC) </p>
-· 2021-now  Chinese Institute for Brain Research, China (CIBR) </p>
-· 2019-now  Assoc. Prof., Brain Research Center, Beijing Institute of Basic Medical Sciences </p>
-· 2015-2019 Ghent University, Ph.D.
-· 2014-2019 AEC, Ph.D.
-· 2011-2013 AEC, M.Sc.
-· 2007-2011 Dalian Maritime University, B.Sc.
+· 2022-now  University of Electronic Science and Technology of China (UESTC) \\
+· 2021-now  Chinese Institute for Brain Research, China (CIBR) \\
+· 2019-now  Assoc. Prof., Brain Research Center, Beijing Institute of Basic Medical Sciences \\
+· 2015-2019 Ghent University, Ph.D.\\
+· 2014-2019 AEC, Ph.D.\\
+· 2011-2013 AEC, M.Sc.\\
+· 2007-2011 Dalian Maritime University, B.Sc.\\
 
 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Academic Services
+====== 
+1. AE,
+2. AE,
+3. Member,
+4. Member,
+5. Member,
 
 Site-wide configuration
 ------
