@@ -56,8 +56,7 @@ Selected Publications
 [4] \\
 
 
-
-Acknowledgement
+Funds
 -
 * *National Natural Science Fundation of China (NSFC)*
 * *Beijing Natural Science Foundation* 
@@ -70,3 +69,11 @@ Mentorship & Partnership
 * [Yi-zheng Wang](https://casad.cas.cn/ysxx2022/ysmd/smkx/202201/t20220111_4821762.html), Professor, CAS Member(中科院院士), BIBMS/Fudan University
 * [Bernard De Baets](https://ai.ugent.be/people/BernardDeBaets.en.html), Professor, former President of EUSFLAT, Ghent University
 * [Carlos Lopez-Molina](https://www.unavarra.es/pdi?uid=810097&dato=tutorias), Professor, Universidad Publica de Navarrra
+* Institute of Automation，Chinese Academy of Sciences
+* Institute of Psychology，Chinese Academy of Sciences
+* Tele AI
+* Peking University
+* Tsinghua University
+* Beijing Normal University
+* Fudan University
+* China Electronics Technology Group Corporation
