@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Vice Director/Assoc. Professor** Brain Research Center, Beijing Institute of Basic Medical Sciences\\
-**Director**                   Neuro-AI Vision Engineering (NAIVE) Lab\\
+**Director**                       Neuro-AI Vision Engineering (NAIVE) Lab\\
 **Youth Professor**                Chinese Institute for Brain Research, China (CIBR)\\
 **Assoc. Professor**               University of Electronic Science and Technology of China (UESTC)
 
@@ -16,10 +16,10 @@ redirect_from:
 
 Education Background
 -
-· 2015-2019   Ghent University, Belgium, Ph.D.\\
-· 2014-2019   AEC, China, Ph.D.\\
-· 2011-2013   AEC, China, M.Sc.\\
-· 2007-2011   Dalian Maritime University, China, B.Sc.
+* 2015-2019   [link](https://kermit.ugent.be/ "KERMIT"), Ghent University, Belgium, Ph.D.\\
+* 2014-2019   AEC, China, Ph.D.\\
+* 2011-2013   AEC, China, M.Sc.\\
+* 2007-2011   Dalian Maritime University, China, B.Sc.
 
 
 
