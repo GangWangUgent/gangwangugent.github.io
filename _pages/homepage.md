@@ -88,3 +88,9 @@ My current positions include:
 * Beijing Normal University
 * Fudan University
 * China Electronics Technology Group Corporation
+* BIT
+* Xidian University
+* Jiangnan University
+* LG Lab
+* Beihang University
+* Beijing University Of Technology
