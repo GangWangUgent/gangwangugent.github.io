@@ -20,7 +20,7 @@ redirect_from:
 * *2024.07*: &nbsp;🎉🎉 gave a talk in ISNN2024 titled '*Bio-inspired Visual Motion Saliency Estimation for Small Video Objects with Applications*'.
 
 
-📖 Education Background
+📖:mortar_board: Education Background
 -
 * PhD-1 in [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
 * PhD-2 in A. Engineer. University, China, 2019
@@ -29,7 +29,7 @@ redirect_from:
 
 
 
-💻 Academic Services
+💻 🌏 :earth_asia: Academic Services
 -
 * **Deputy Secretary-General**, *Chinese Neuroscience Society (CNS), Brain-inspired Intelligence Branch*
 * **Committee Member**, *Chinese Neuroscience Society (CNS), Youth Affairs Committee*
