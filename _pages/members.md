@@ -9,7 +9,7 @@ redirect_from:
 
 ☀️ Mentorship
 -
-* [Yi-zheng Wang](https://casad.cas.cn/ysxx2022/ysmd/smkx/202201/t20220111_4821762.html), Professor, CAS Member(中科院院士), BIBMS/Fudan University
+* [Yi-zheng WANG](https://casad.cas.cn/ysxx2022/ysmd/smkx/202201/t20220111_4821762.html), Professor, CAS Member(中科院院士), BIBMS/Fudan University
 
 
 
