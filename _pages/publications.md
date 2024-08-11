@@ -11,7 +11,7 @@ Please find the full publication list through the [Google Scholar profile](https
 <br> 
 <br> 
 
-* **Tiny video-object detection (TVOD)**
+# Tiny video-object detection (TVOD)
 
 ![](../images/ASOC-result_small.png)
 <br>  
@@ -20,7 +20,7 @@ Please find the full publication list through the [Google Scholar profile](https
 
 
 
-* **Visual object tracking (VOT)**
+# Visual object tracking (VOT)
 
 ![](../images/TPAMI-result-small.png)
 <br>  
@@ -29,7 +29,7 @@ Please find the full publication list through the [Google Scholar profile](https
 
 
 
-* **Bio-vision modelling**
+# Bio-vision modelling
 
 ![](../images/ASOC-magno-result-small.png)
 <br>
@@ -38,7 +38,7 @@ Please find the full publication list through the [Google Scholar profile](https
 
 
 
-* **Low-level vision**
+# Low-level vision
 
 ![](../images/SIVP-result-small.png)
 <br>
@@ -47,7 +47,7 @@ Please find the full publication list through the [Google Scholar profile](https
 
 
 
-* **Retina/V1 neuroscience**
+# Retina/V1 neuroscience
 
 ![](../images/NSB-illu-small.png)
 <br>  
