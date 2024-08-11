@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "NAIVE Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
