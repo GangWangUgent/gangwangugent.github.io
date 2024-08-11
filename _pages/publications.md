@@ -10,7 +10,7 @@ redirect_from:
 Please find the full publication list through the [Google Scholar profile](https://scholar.google.com/citations?user=YOtXJvQAAAAJ&hl=zh-CN). The publications mainly address vision problemes of:
 * **Tiny video-object detection (TVOD)**
 
-![](../images/ASOC-result-small.png)
+![](../images/ASOC-result_small.png)
 <\br>  
 
   
