@@ -26,7 +26,7 @@ My current positions include:
 
 🎓 Education Background
 -
-* PhD-1: Bioscience Engineering: Mathematical Modelling, from [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
+* PhD-1: Bioscience Engineering (Mathematical Modelling), from [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
 * PhD-2: Measurement Techniques & Measuring Instruments, from A. Engineer. University, China, 2019
 * MSc: Control Science and Engineering, from A. Engineer. University, China, 2013
 * BSc: Telecommunications Engineering, from [Dalian Maritime University](https://en.wikipedia.org/wiki/Dalian_Maritime_University), China, 2011.
