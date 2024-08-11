@@ -34,11 +34,11 @@ My current positions include:
 
 🌏 Academic Services
 -
-* **Deputy Secretary-General**, &nbsp* [Chinese Neuroscience Society (CNS)](https://www.cns.org.cn/en/)*, *[Brain-inspired Intelligence Branch](https://www.cns.org.cn/about_02_society_24.html)*
-* **Committee Member**, &nbsp [*Chinese Neuroscience Society (CNS), Youth Affairs Committee*](https://www.cns.org.cn/about_02_committee_03.html)
-* **AE**, &nbsp [*Journal of Electronics & Information Technology*](https://jeit.ac.cn/indexen.htm)
-* **Reviewer**, &nbsp *NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR*, etc.
-* **Keynote Speaker**, &nbsp *CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar,* etc.
+* **Deputy Secretary-General**, &nbsp; *[Chinese Neuroscience Society (CNS)](https://www.cns.org.cn/en/)*, *[Brain-inspired Intelligence Branch](https://www.cns.org.cn/about_02_society_24.html)*
+* **Committee Member**, &nbsp; [*Chinese Neuroscience Society (CNS), Youth Affairs Committee*](https://www.cns.org.cn/about_02_committee_03.html)
+* **AE**, &nbsp; [*Journal of Electronics & Information Technology*](https://jeit.ac.cn/indexen.htm)
+* **Reviewer**, &nbsp; *NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR*, etc.
+* **Keynote Speaker**, &nbsp; *CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar,* etc.
 
 
 🏆 Selected Honors & Awards
@@ -60,8 +60,8 @@ My current positions include:
 4. Zizheng Xun, Shangzhe Di, Yulu Gao, Zongheng Tang, **Gang Wang**†, Si Liu, Bo Li. Linker: Learning Long Short-term Associations for Robust Visual Tracking [J]. IEEE Transactions on Multimedia. 2024(26): 6228-6237.
 5. Fengguang Peng, Zihan Ding, Ziming Chen, **Gang Wang**†, Tianrui Hui, Si Liu, Hang Shi. Region-adaptive and context-complementary cross modulation for RGB-T semantic segmentation[J]. Pattern Recognition, 2023: 110092. 
 
-&nbsp &nbsp &nbsp #: First author  
-&nbsp &nbsp &nbsp †: Corresponding author
+&nbsp; &nbsp; &nbsp; #: First author  
+&nbsp; &nbsp; &nbsp; †: Corresponding author
 
 
 🏦 Funds
