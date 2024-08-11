@@ -16,8 +16,7 @@ author:
   # Biographic information
   avatar           : "profile-wanggang-realmadrid.jpg"
   name             : "Gang Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "image processing, computer vision, neuroscience"
+  bio              : "Assoc. Prof. in BIBMS/CIBR/UESTC"
   location         : "Beijing, China"
   employer         : "UGent, CIBR, UESTC"
   uri              : # URL
@@ -29,7 +28,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1916-6110"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
