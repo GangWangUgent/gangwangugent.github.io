@@ -9,8 +9,19 @@ redirect_from:
 
 Please find the full publication list through the [Google Scholar profile](https://scholar.google.com/citations?user=YOtXJvQAAAAJ&hl=zh-CN). The publications mainly address vision problemes of:
 * Tiny video-object detection (TVOD);
+
+![](../images/profile-wanggang-realmadrid.png)
+  
 * Visual object tracking (VOT);
+![](../images/profile-wanggang-realmadrid.png)
+
+
 * Low-level vision;
+
+![](../images/profile-wanggang-realmadrid.png)
+
+
+
 * Bio-vision modelling;
 * Retina/V1 neuroscience;
 * ...
