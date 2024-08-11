@@ -9,6 +9,8 @@ redirect_from:
 
 Tiny video-object detection (TVOD)
 -
+<img src=".\images\bio-photo.jpg">
+<img src=".\images\profile-wanggang-realmadrid.jpg">
 
 Video object tracking (VOT)
 -
