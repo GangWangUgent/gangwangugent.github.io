@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Members"
+title: "NAIVE Members"
 permalink: /members/
 author_profile: true
 redirect_from:
