@@ -12,8 +12,8 @@ Staff
 * Tian WANG (Post-doc, 2024-)
 * Xue-yao JI (Engineer, 2022-)
 * Li-rong ZHU (Engineer, 2024-)
-* Yan-yu GUO (Engineer, 2024-)
-* Yu-pan LIU (Research Assistant, 2022-)
+* Yan-yv GUO (Engineer, 2024-)
+* Yv-pan LIU (Research Assistant, 2022-)
   
 Students
 -
@@ -21,7 +21,7 @@ Students
 * Jia-yi FU (PhD candidate, 2023-)
 * Quan TANG (MSc student, 2023-)
 * Ke LUO (MSc student, 2024-)
-* Jiayi Zheng (MSc student, 2023-)
+* Jiayi ZHENG (MSc student, 2023-)
 * Ru-yi LI (MSc student, 2023-)
 * Wei ZHANG (MSc student, 2024-)
 * Yi-bo CUI (PhD candidate, 2023-)
