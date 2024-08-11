@@ -14,8 +14,8 @@ redirect_from:
 
 👨‍💻👨🏻‍💻 Staff
 -
-* Kai GAO (Assistant Professor)
-* Xiao-chang HU (Assistant Professor)
+* Kai GAO (Assistant Professor, 2021-)
+* Xiao-chang HU (Assistant Professor, 2023-)
 * Tian WANG (Post-doc, 2024-)
 * Xue-yao JI (Engineer, 2022-)
 * Li-rong ZHU (Engineer, 2024-)
