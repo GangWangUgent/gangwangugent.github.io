@@ -17,8 +17,9 @@ My current positions include:
 
 🔥 News & Events
 -
-* *2024.08*: &nbsp;🎉 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
-* *2024.07*: &nbsp;🎊 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
+* *2024.08*: &nbsp;🎉 1 paper accepted in *IEEE Transactions on Intelligent Transportation Systems* (IF=7.9, Q1).
+* *2024.08*: &nbsp;🎊 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
+* *2024.07*: &nbsp;🎉 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
 * *2024.07*: &nbsp; gave a talk in CCDM2024 titled '*Visual Motion Computing: Bio-models vs CV models*'.
 * *2024.07*: &nbsp; gave a talk in ISNN2024 titled '*Bio-inspired Visual Motion Saliency Estimation for Small Video Objects with Applications*'.
 
