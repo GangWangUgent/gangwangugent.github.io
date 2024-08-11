@@ -7,7 +7,12 @@ redirect_from:
   - /members
 ---
 
-Staff
+☀️ Mentorship
+-
+* [Yi-zheng Wang](https://casad.cas.cn/ysxx2022/ysmd/smkx/202201/t20220111_4821762.html), Professor, CAS Member(中科院院士), BIBMS/Fudan University
+
+
+👨‍💻👨🏻‍💻 Staff
 -
 * Tian WANG (Post-doc, 2024-)
 * Xue-yao JI (Engineer, 2022-)
@@ -15,7 +20,7 @@ Staff
 * Yan-yv GUO (Engineer, 2024-)
 * Yv-pan LIU (Research Assistant, 2022-)
   
-Students
+🙋🏻‍♂️🙋🏻‍♀️ Students
 -
 * Xin YANG (PhD candidate, 2024-)
 * Jia-yi FU (PhD candidate, 2023-)
@@ -27,7 +32,7 @@ Students
 * Yi-bo CUI (PhD candidate, 2023-)
 
 
-Almni
+👨🏻‍🎓👩🏻‍🎓 Almni
 -
 * Ren-dong TANG (Research fellow, 2022)
 * Ming-song CHEN (MSc student, 2019)
