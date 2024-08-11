@@ -6,13 +6,13 @@ redirect_from:
   - /homepage/
 ---
 
-Following the pioneering David Marr, I mainly focus on computational vision inspired by neuroscience, seeking for favorable solutions for feature engineering and visual object perception.
+Following the pioneering [David Courtenay Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist)), I mainly focus on computational vision inspired by neuroscience, seeking favorable solutions for feature engineering and visual object perception.
 My current positions include:
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS
 * **Director**,                       Neuro-AI Vision Engineering (NAIVE) Lab
-* **Youth Professor**,                Chinese Institute for Brain Research, China (CIBR)
-* **Assoc. Professor**,               University of Electronic Science and Technology of China (UESTC)
+* **Youth Professor**,                [Chinese Institute for Brain Research, China (CIBR)](https://en.cibr.ac.cn/)
+* **Assoc. Professor**,               [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/)
 
 
 🔥 News & Events
@@ -34,9 +34,9 @@ My current positions include:
 
 🌏 Academic Services
 -
-* **Deputy Secretary-General**, *Chinese Neuroscience Society (CNS), Brain-inspired Intelligence Branch*
-* **Committee Member**, *Chinese Neuroscience Society (CNS), Youth Affairs Committee*
-* **AE**, *Journal of Electronics & Information Technology*
+* **Deputy Secretary-General**, [*Chinese Neuroscience Society (CNS)](https://www.cns.org.cn/en/), [Brain-inspired Intelligence Branch*](https://www.cns.org.cn/about_02_society_24.html)
+* **Committee Member**, [*Chinese Neuroscience Society (CNS), Youth Affairs Committee*](https://www.cns.org.cn/about_02_committee_03.html)
+* **AE**, [*Journal of Electronics & Information Technology*](https://jeit.ac.cn/indexen.htm)
 * **Reviewer**, *NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR*, etc.
 * **Keynote Speaker**, *CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar,* etc.
 
@@ -76,7 +76,7 @@ Mentorship & Partnership
 * [Carlos Lopez-Molina](https://www.unavarra.es/pdi?uid=810097&dato=tutorias), Professor, Universidad Publica de Navarrra
 * Institute of Automation，Chinese Academy of Sciences
 * Institute of Psychology，Chinese Academy of Sciences
-* Tele AI
+* [EVOL Lab, Tele AI](https://zhaoj9014.github.io/)
 * Peking University
 * Tsinghua University
 * Beijing Normal University
