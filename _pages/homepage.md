@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gang WANG王剛  (NAIVE Lab)"
+title: "Gang WANG (王剛)"
 author_profile: true
 redirect_from: 
   - /homepage/
@@ -14,13 +14,13 @@ redirect_from:
 
 🔥 News & Events
 -
-* *2024.08*: &nbsp;🎉🎉 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
-* *2024.07*: &nbsp;🎉🎉 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
-* *2024.07*: &nbsp;🎉🎉 gave a talk in CCDM2024 titled '*Visual Motion Computing: Bio-models vs CV models*'.
-* *2024.07*: &nbsp;🎉🎉 gave a talk in ISNN2024 titled '*Bio-inspired Visual Motion Saliency Estimation for Small Video Objects with Applications*'.
+* *2024.08*: &nbsp;🎉 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
+* *2024.07*: &nbsp;🎉 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
+* *2024.07*: &nbsp; gave a talk in CCDM2024 titled '*Visual Motion Computing: Bio-models vs CV models*'.
+* *2024.07*: &nbsp; gave a talk in ISNN2024 titled '*Bio-inspired Visual Motion Saliency Estimation for Small Video Objects with Applications*'.
 
 
-📖:mortar_board: Education Background
+🎓 Education Background
 -
 * PhD-1 in [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
 * PhD-2 in A. Engineer. University, China, 2019
@@ -29,7 +29,7 @@ redirect_from:
 
 
 
-💻 🌏 :earth_asia: Academic Services
+🌏 Academic Services
 -
 * **Deputy Secretary-General**, *Chinese Neuroscience Society (CNS), Brain-inspired Intelligence Branch*
 * **Committee Member**, *Chinese Neuroscience Society (CNS), Youth Affairs Committee*
