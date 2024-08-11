@@ -12,15 +12,15 @@ redirect_from:
 * **Assoc. Professor**,               University of Electronic Science and Technology of China (UESTC)
 
 
-News & Events
+🔥 News & Events
 -
-* 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
-* 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
-* July 28, 2024, gave a talk in CCDM2024 titled '*Visual Motion Computing: Bio-models vs CV models*'.
-* July 13, 2024, gave a talk in ISNN2024 titled '*Bio-inspired Visual Motion Saliency Estimation for Small Video Objects with Applications*'.
+* *2024.08*: &nbsp;🎉🎉 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
+* *2024.07*: &nbsp;🎉🎉 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
+* *2024.07*: &nbsp;🎉🎉 gave a talk in CCDM2024 titled '*Visual Motion Computing: Bio-models vs CV models*'.
+* *2024.07*: &nbsp;🎉🎉 gave a talk in ISNN2024 titled '*Bio-inspired Visual Motion Saliency Estimation for Small Video Objects with Applications*'.
 
 
-Education Background
+📖 Education Background
 -
 * PhD-1 in [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
 * PhD-2 in A. Engineer. University, China, 2019
@@ -29,7 +29,7 @@ Education Background
 
 
 
-Academic Services
+💻 Academic Services
 -
 * **Deputy Secretary-General**, *Chinese Neuroscience Society (CNS), Brain-inspired Intelligence Branch*
 * **Committee Member**, *Chinese Neuroscience Society (CNS), Youth Affairs Committee*
@@ -38,7 +38,7 @@ Academic Services
 * **Keynote Speaker**, *CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar,* etc.
 
 
-Selected Honors & Awards
+🎖 Selected Honors & Awards
 -
 * **Young Talent on Science and Technology**, from the Chinese Government
 * **Beijing Nova Program**, from the Beijing Municipal Sci&Tech Commission
@@ -48,7 +48,7 @@ Selected Honors & Awards
 * **Best Student Paper Nomination**, from the EUSFLAT2017
 * **Best Student Thesis Nomination**, from the BNAIC2019
 
-Selected Publications
+📝 Selected Publications
 -
 1. **Gang Wang**#*, Xin Yang#, Liang Li, Kai Gao, Jin Gao, Jiayi Zhang, Dajun Xing, Yizheng Wang. Tiny drone object detection in videos guided by the bio-inspired magnocellular computation model[J]. Applied Soft Computing, 2024: 111892.  
 2. **Gang Wang**#*, Carlos Lopez-Molina, Bernard De Baets. High-ISO long-exposure image denoising based on quantitative blob characterization, IEEE Transactions on Image Processing, 2020, 29: 5993-6005.
