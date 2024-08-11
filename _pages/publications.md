@@ -11,6 +11,8 @@ Please find the full publication list through the [Google Scholar profile](https
 * **Tiny video-object detection (TVOD)**
 
 ![](../images/ASOC-result.png)
+
+<img src="./images/ASOC-result.png">
   
 * **Visual object tracking (VOT)**
 
