@@ -6,6 +6,9 @@ redirect_from:
   - /homepage/
 ---
 
+Following the pioneering David Marr, I mainly focus on computational vision inspired by neuroscience, seeking for favorable solutions for feature engineering and visual object perception.
+My current positions include:
+
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS
 * **Director**,                       Neuro-AI Vision Engineering (NAIVE) Lab
 * **Youth Professor**,                Chinese Institute for Brain Research, China (CIBR)
