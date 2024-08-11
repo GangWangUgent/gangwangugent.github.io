@@ -47,8 +47,8 @@ My current positions include:
 * **Young Talent on Science and Technology**, from the Chinese Government
 * **Beijing Nova Program**, from the Beijing Municipal Sci&Tech Commission
 * **Beijing CIBR Young Scholar**, from the Beijing Municipal Sci&Tech Commission
-* **1st Prize of the CVPR Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Challenge
-* **1st Prize of the IDS Image Denoising Competition**, from the IDS2016
+* 🏅**1st Prize of the CVPR Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Challenge
+* 🏅**1st Prize of the IDS Image Denoising Competition**, from the IDS2016
 * **Best Student Paper Nomination**, from the EUSFLAT2017
 * **Best Student Thesis Nomination**, from the BNAIC2019
 * **Outstanding AE**, from the *JEIT* journal.
