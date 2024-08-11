@@ -16,7 +16,6 @@ redirect_from:
 👨‍💻👨🏻‍💻 Staff
 -
 * Gang WANG (Assoc. Professor, 2019-)
-![](../images/profile-wanggang-realmadrid.jpg)
 * Kai GAO (Assistant Professor, 2021-)
 * Xiao-chang HU (Assistant Professor, 2023-)
 * Tian WANG (Post-doc, 2024-)
