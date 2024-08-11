@@ -26,10 +26,10 @@ My current positions include:
 
 🎓 Education Background
 -
-* PhD-1 in [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
-* PhD-2 in A. Engineer. University, China, 2019
-* MSc in A. Engineer. University, China, 2013
-* BSc in [Dalian Maritime University](https://en.wikipedia.org/wiki/Dalian_Maritime_University), China, 2011.
+* PhD-1: Bioscience Engineering: Mathematical Modelling, from [KERMIT](https://kermit.ugent.be/ "KERMIT"), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University), Belgium, 2019
+* PhD-2: Measurement Techniques & Measuring Instruments, from A. Engineer. University, China, 2019
+* MSc: Control Science and Engineering, from A. Engineer. University, China, 2013
+* BSc: Telecommunications Engineering, from [Dalian Maritime University](https://en.wikipedia.org/wiki/Dalian_Maritime_University), China, 2011.
 
 
 
@@ -94,3 +94,20 @@ My current positions include:
 * LG Lab
 * Beihang University
 * Beijing University Of Technology
+
+
+Tributes
+-
+My research career has been influenced by quite a few theories and techniques proposd by the pioneers. I would like to pay tribute to these top scientists.
+
+* [David Courtenay Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist)) (MIT, US)
+  * He reshaped the vision computational theory, the book of whom *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* has always fascinated me.
+* [Tony Lindeberg](https://www.kth.se/profile/tony) (KTH Royal Institute of Technology, Sweden)
+  * His research subjects concern scale-space theory, early vision and image representations in terms of receptive fields. He has top telents in mathematics, and his papers usually present a lot of complex expressions. However, I love them all, because they are so elegant.
+* [John F. Canny](https://en.wikipedia.org/wiki/John_Canny) (MIT, US)
+  * The famous Canny edge detetor seems easy, but the internal computation is super charming. This work tells me how the signal processing, image processing and bio-vision meet together, from a super elegant perspective.
+
+
+
+
+
