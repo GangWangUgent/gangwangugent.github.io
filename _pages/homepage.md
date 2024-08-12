@@ -11,8 +11,8 @@ My current positions include:
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS, Beijing
 * **Director**,                       Neuro-AI Vision Engineering (NAIVE) Lab, Beijing
-* **Youth Professor**,                [Chinese Institute for Brain Research, China (CIBR, 北京脑科学与类脑研究所)](https://en.cibr.ac.cn/)
-* **Assoc. Professor**,               [University of Electronic Science and Technology of China (UESTC, 电子科技大学)](https://en.uestc.edu.cn/)
+* **Youth Professor**,                [Chinese Institute for Brain Research, China (北京脑科学与类脑研究所)](https://en.cibr.ac.cn/)
+* **Assoc. Professor**,               [University of Electronic Science and Technology of China (电子科技大学)](https://en.uestc.edu.cn/)
 
 
 🔥 News & Events
