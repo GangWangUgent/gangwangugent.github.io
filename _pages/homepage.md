@@ -6,13 +6,13 @@ redirect_from:
   - /homepage/
 ---
 
-Following the pioneer [David Courtenay Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by neuroscience, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*.
+Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by neuroscience, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*.
 My current positions include:
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS, Beijing
 * **Director**,                       Neuro-AI Vision Engineering (NAIVE) Lab, Beijing
-* **Youth Professor**,                [Chinese Institute for Brain Research, China (CIBR)](https://en.cibr.ac.cn/)
-* **Assoc. Professor**,               [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/)
+* **Youth Professor**,                [Chinese Institute for Brain Research, China (CIBR, 北京脑科学与类脑研究所)](https://en.cibr.ac.cn/)
+* **Assoc. Professor**,               [University of Electronic Science and Technology of China (UESTC, 电子科技大学)](https://en.uestc.edu.cn/)
 
 
 🔥 News & Events
@@ -35,8 +35,8 @@ My current positions include:
 
 🌏 Academic Services
 -
-* **Deputy Secretary-General**, &nbsp; *[Chinese Neuroscience Society (CNS)](https://www.cns.org.cn/en/)*, *[Brain-inspired Intelligence Branch](https://www.cns.org.cn/about_02_society_24.html)*
-* **Committee Member**, &nbsp; [*Chinese Neuroscience Society (CNS), Youth Affairs Committee*](https://www.cns.org.cn/about_02_committee_03.html)
+* **Deputy Secretary-General**, &nbsp; *[Chinese Neuroscience Society (CNS)](https://www.cns.org.cn/en/)*, *[Brain-inspired Intelligence Branch (中国神经科学学会类脑智能分会)](https://www.cns.org.cn/about_02_society_24.html)*
+* **Committee Member**, &nbsp; [*Chinese Neuroscience Society (CNS), Youth Affairs Committee (中国神经科学学会青工委)*](https://www.cns.org.cn/about_02_committee_03.html)
 * **AE**, &nbsp; [*Journal of Electronics & Information Technology*](https://jeit.ac.cn/indexen.htm)
 * **Reviewer**, &nbsp; *NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR*, etc.
 * **Keynote Speaker**, &nbsp; *CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar,* etc.
@@ -45,8 +45,8 @@ My current positions include:
 🏆 Selected Honors & Awards
 -
 * **Young Talent on Science and Technology**, from the Chinese Government
-* **Beijing Nova Program**, from the Beijing Municipal Sci&Tech Commission
-* **Beijing CIBR Young Scholar**, from the Beijing Municipal Sci&Tech Commission
+* **Beijing Nova Program (北京市科技新星)**, from the Beijing Municipal Sci&Tech Commission
+* **Beijing CIBR Young Scholar (北脑青年学者)**, from the Beijing Municipal Sci&Tech Commission
 * 🏅**1st Prize of the CVPR Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Challenge
 * 🏅**1st Prize of the IDS Image Denoising Competition**, from the IDS2016
 * **Best Student Paper Nomination**, from the EUSFLAT2017
@@ -106,6 +106,8 @@ My research career has been influenced by quite a few theories and techniques pr
   * His research subjects concern scale-space theory, early vision and image representations in terms of receptive fields. He has top telents in mathematics, and his papers usually present a lot of complex expressions. However, I love them all, because they are so elegant.
 * [John F. Canny](https://en.wikipedia.org/wiki/John_Canny) (MIT, US)
   * The famous Canny edge detetor seems easy, but the internal computation is super charming. This work tells me how the signal processing, image processing and bio-vision meet together, from a super elegant perspective.
+* [Geoffrey Everest Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) (University of Toronto, Canada)
+  * He is the winner of Turing Award, noted for his work on DCNNs that have refreshed the vision field. I bought ideas from the deep learning features that are interestingly similar to the biological V1 RFs.  
 
 
 
