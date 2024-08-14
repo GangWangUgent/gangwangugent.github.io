@@ -6,7 +6,7 @@ redirect_from:
   - /homepage/
 ---
 
-Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by neuroscience, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*.
+Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by neuroscience, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*. 
 My current positions include:
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS, Beijing
@@ -17,6 +17,7 @@ My current positions include:
 
 🔥 News & Events
 -
+* **📣 Our NAIVE Lab is recruiting students and engineers**
 * *2024.08*: &nbsp;🎉 1 paper accepted in *IEEE Trans. on Intelligent Transportation Systems* (IF=7.9, Q1).
 * *2024.08*: &nbsp;🎊 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
 * *2024.07*: &nbsp;🎉 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
@@ -93,7 +94,7 @@ My current positions include:
 * Jiangnan University
 * LG Lab
 * Beihang University
-* Beijing University Of Technology
+* Beijing University of Technology
 
 
 👍 Tributes
