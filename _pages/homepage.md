@@ -6,7 +6,7 @@ redirect_from:
   - /homepage/
 ---
 
-Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by neuroscience, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*. 
+Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by *neuroscience*, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*. 
 My current positions include:
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS, Beijing
