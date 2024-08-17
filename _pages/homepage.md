@@ -14,7 +14,7 @@ My current positions include:
 * **Youth Professor**,                [Chinese Institute for Brain Research, China (北京脑科学与类脑研究所)](https://en.cibr.ac.cn/)
 * **Assoc. Professor**,               [University of Electronic Science and Technology of China (电子科技大学)](https://en.uestc.edu.cn/)
 
-Please feel free to contact me: g_wang@foxmail.com / gang.wang@uestc.edu.cn
+&nbsp &nbsp 📧 Please feel free to contact me: g_wang@foxmail.com / gang.wang@uestc.edu.cn
 <br>
 <br> 
 
