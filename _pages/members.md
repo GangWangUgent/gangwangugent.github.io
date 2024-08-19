@@ -12,6 +12,7 @@ redirect_from:
 * [Yi-zheng WANG](https://casad.cas.cn/ysxx2022/ysmd/smkx/202201/t20220111_4821762.html), Professor, CAS Member(中科院院士), BIBMS/Fudan University
 * [Tie-niu TAN](https://www.nju.edu.cn/info/1035/1266.htm)(honorary), Professor, CAS Member(中科院院士), Institute of Automation, CAS
 * [Lin CHEN](http://www.ibp.cas.cn/kydw_157813/fzzgjkxyys/201912/t20191202_5447308.html)(honorary), Professor, CAS Member(中科院院士), Institute of Biophysics, CAS
+* [Bernard De Baets](https://ai.ugent.be/people/BernardDeBaets.en.html)(honorary), Professor, former President of EUSFLAT, Ghent University
 
 
 👨‍💻👨🏻‍💻 Staff
