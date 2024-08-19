@@ -79,8 +79,7 @@ My current positions include:
 * *China Scholarship Council (CSC) Scholarship*
 * *EUSFLAT Student Travel Grants*
 
-![image](https://github.com/user-attachments/assets/220bd3b8-b388-49b3-b290-0693ce4a9cb7)
-
+&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/220bd3b8-b388-49b3-b290-0693ce4a9cb7)
 ![image](https://github.com/user-attachments/assets/03b9333b-c919-44ee-a444-8df677ece4c0)
 
 
