@@ -20,13 +20,13 @@ author:
   location         : "Beijing, China"
   employer         : "UGent, CIBR, UESTC"
   uri              : # URL
-  email            : "g_wang@foxmail.com" 
+  email            : # "g_wang@foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=YOtXJvQAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1916-6110"
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0002-1916-6110"
   semantic         : # URL
   researchgate     : # URL
 
