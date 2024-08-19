@@ -78,6 +78,8 @@ My current positions include:
 * *Beijing CIBR Young Scholar Fund*
 * *China Scholarship Council (CSC) Scholarship*
 * *EUSFLAT Student Travel Grants*
+![image](https://github.com/user-attachments/assets/ff5a69b3-86cd-4b5c-b894-d6e9b5f19508)
+
 
 
 🤝 Mentorship & Partnership
