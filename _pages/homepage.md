@@ -10,7 +10,7 @@ Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuros
 My current positions include:
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS, Beijing
-* **Director**,                       Neuro-AI Vision Engineering (<font color=Blue><b>NAIVE</font>) Lab, Beijing
+* **Director**,                       Neuro-AI Vision Engineering (**<font color=Blue> NAIVE </font>**) Lab, Beijing
 * **Youth Professor**,                [Chinese Institute for Brain Research, China (北京脑科学与类脑研究所)](https://en.cibr.ac.cn/)
 * **Assoc. Professor**,               [University of Electronic Science and Technology of China (电子科技大学)](https://en.uestc.edu.cn/)
 
