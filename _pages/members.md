@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "NAIVE Members"
+title: "NAIVE-Lab Members"
 permalink: /members/
 author_profile: true
 redirect_from:
@@ -28,21 +28,22 @@ redirect_from:
   
 🙋🏻‍♂️🙋🏻‍♀️ Students
 -
-* Xin YANG (PhD candidate, 2024-)
-* Jia-yi FU (PhD candidate, 2023-)
-* Quan TANG (MSc student, 2023-)
-* Ke LUO (MSc student, 2024-)
-* Jiayi ZHENG (MSc student, 2023-)
-* Ru-yi LI (MSc student, 2023-)
-* Wei ZHANG (MSc student, 2024-)
-* Yi-bo CUI (PhD candidate, 2023-)
+* Xin YANG (PhD candidate, UESTC, 2024-)
+* Jia-yi FU (PhD candidate, UESTC, 2023-)
+* Yi-fei HAN (PhD candidate, BNU, 2023-)
+* Quan TANG (MSc student, UESTC, 2023-)
+* Ke LUO (MSc student, UESTC, 2024-)
+* Jiayi ZHENG (MSc student, USC, 2023-)
+* Ru-yi LI (MSc student, LUT, 2023-)
+* Wei ZHANG (MSc student, USST, 2024-)
+* Yi-bo CUI (PhD candidate, DLMU, 2023-)
 
 
 👨🏻‍🎓👩🏻‍🎓 Almni
 -
 * Ren-dong TANG (Research fellow, 2022)
-* Ming-song CHEN (MSc student, 2019)
-* Zhan-guo DONG (MSc student, 2020)
-* Xin YANG (MSc student, 2020)
+* Ming-song CHEN (MSc student, BIBMS, 2019)
+* Zhan-guo DONG (MSc student, LUT, 2020)
+* Xin YANG (MSc student, BIBMS, 2020)
 
 
