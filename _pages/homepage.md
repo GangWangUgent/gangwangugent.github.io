@@ -10,7 +10,7 @@ Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuros
 My current positions include:
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS, Beijing
-* **Director**,                       Neuro-AI Vision Engineering (**<font color=DodgerBlue>NAIVE</font>**) Lab, Beijing
+* **Director**,                       Neuro-AI Vision Engineering Lab (**<font color=DodgerBlue>NAIVE</font>**), Beijing
 * **Youth Professor**,                [Chinese Institute for Brain Research, China (北京脑科学与类脑研究所)](https://en.cibr.ac.cn/)
 * **Assoc. Professor**,               [University of Electronic Science and Technology of China (电子科技大学)](https://en.uestc.edu.cn/)
 
@@ -22,6 +22,7 @@ My current positions include:
 🔥 News & Events
 -
 * **📣 Our NAIVE Lab is recruiting students and engineers.** [Join Us!](https://gangwangugent.github.io//joinus/)
+* *2024.09*: &nbsp;🎉 listed in the *Beijing Nova Program (interdisciplinary)*.
 * *2024.08*: &nbsp;🎉 1 paper accepted in *IEEE Trans. on Intelligent Transportation Systems* (IF=7.9, Q1).
 * *2024.08*: &nbsp;🎊 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
 * *2024.07*: &nbsp;🎉 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
