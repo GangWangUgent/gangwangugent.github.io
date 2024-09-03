@@ -22,7 +22,7 @@ My current positions include:
 🔥 News & Events
 -
 * **📣 Our NAIVE Lab is recruiting students and engineers.** [Join Us!](https://gangwangugent.github.io//joinus/)
-* *2024.09*: &nbsp;🎉 listed in the *Beijing Nova Program (interdisciplinary)*.
+* *2024.09*: &nbsp;🎉 newly listed in the *2024 Beijing Nova Program (interdiscipline)*.
 * *2024.08*: &nbsp;🎉 1 paper accepted in *IEEE Trans. on Intelligent Transportation Systems* (IF=7.9, Q1).
 * *2024.08*: &nbsp;🎊 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
 * *2024.07*: &nbsp;🎉 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
@@ -50,14 +50,15 @@ My current positions include:
 
 🏆 Selected Honors & Awards
 -
-* **Young Talent on Science and Technology**, from the Chinese Government
-* **Beijing Nova Program (北京市科技新星)**, from the Beijing Municipal Sci&Tech Commission
-* **Beijing CIBR Young Scholar (北脑青年学者)**, from the Beijing Municipal Sci&Tech Commission
-* 🏅**1st Prize of the CVPR Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Challenge
-* 🏅**1st Prize of the IDS Image Denoising Competition**, from the IDS2016
-* **Best Student Paper Nomination**, from the EUSFLAT2017
-* **Best Student Thesis Nomination**, from the BNAIC2019
-* **Outstanding AE**, from the *JEIT* journal.
+* 2021, **Young Talent on Science and Technology**, from the Chinese Government
+* 2022, **Beijing Nova Program (innovation)**, from the Beijing Municipal Sci&Tech Commission
+* 2024, **Beijing Nova Program (interdiscipline)**, from the Beijing Municipal Sci&Tech Commission
+* 2021, **Beijing CIBR Young Scholar (北脑青年学者)**, from the Beijing Municipal Sci&Tech Commission
+* 🏅2023, **1st Prize of the CVPR Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Challenge
+* 🏅2016, **1st Prize of the IDS Image Denoising Competition**, from the IDS2016
+* 2017, **Best Student Paper Nomination**, from the EUSFLAT2017
+* 2019, **Best Student Thesis Nomination**, from the BNAIC2019
+* 2022, **Outstanding AE**, from the *JEIT* journal.
 
 📝 Selected Publications
 -
