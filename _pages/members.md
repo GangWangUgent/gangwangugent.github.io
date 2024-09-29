@@ -22,7 +22,6 @@ redirect_from:
 * Xiao-chang HU (Assistant Professor, 2023-)
 * Tian WANG (Post-doc, 2024-)
 * Xue-yao JI (Engineer, 2022-)
-* Li-rong ZHU (Engineer, 2024-)
 * Yan-yv GUO (Engineer, 2024-)
 * Yv-pan LIU (Research Assistant, 2022-)
   
