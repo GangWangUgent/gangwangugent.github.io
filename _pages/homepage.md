@@ -22,6 +22,7 @@ My current positions include:
 🔥 News & Events
 -
 * **📣 Our NAIVE Lab is recruiting students and engineers.** [Join Us!](https://gangwangugent.github.io//joinus/)
+* *2024.09*: &nbsp; helped organize the symposium *Brain Inspired Computing* at the CNS2024 (organized by Prof. Luping Shi). *
 * *2024.09*: &nbsp;🎉 newly listed in the *2024 Beijing Nova Program (interdiscipline)*.
 * *2024.08*: &nbsp;🎉 1 paper accepted in *IEEE Trans. on Intelligent Transportation Systems* (IF=7.9, Q1).
 * *2024.08*: &nbsp;🎊 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
