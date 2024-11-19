@@ -17,13 +17,14 @@ redirect_from:
 
 👨‍💻👨🏻‍💻 Staff
 -
-* Gang WANG (Assoc. Professor, 2019-)
-* Kai GAO (Assistant Professor, 2021-)
-* Xiao-chang HU (Assistant Professor, 2023-)
-* Tian WANG (Post-doc, 2024-)
-* Xue-yao JI (Engineer, 2022-)
+* Gang WANG (Assoc. Professor, 2019-, from UGent)
+* Kai GAO (Assistant Professor, 2021-, from NUDT)
+* Xiao-chang HU (Assistant Professor, 2023-, from NUDT)
+* Xiao-wan HU (Assistant Professor, 2023-, from THU)
+* Tian WANG (Post-doc, 2024-, from BNU)
+* Xue-yao JI (Engineer, 2022-, from UESTC)
 * Yan-yv GUO (Engineer, 2024-)
-* Yv-pan LIU (Research Assistant, 2022-)
+* Yv-pan LIU (Research Assistant, 2022-, from BUPT)
   
 🙋🏻‍♂️🙋🏻‍♀️ Students
 -
@@ -36,6 +37,9 @@ redirect_from:
 * Ru-yi LI (MSc student, LUT, 2023-)
 * Wei ZHANG (MSc student, USST, 2024-)
 * Yi-bo CUI (PhD candidate, DLMU, 2023-)
+* Jia-hao Zhang (MSc student, BJUT, 2024-)
+* Yv Chen (MSc student, LZU, 2024-)
+* Pei-wen Yv (Undergraduate, FUDAN, 2024-)
 
 
 👨🏻‍🎓👩🏻‍🎓 Almni
@@ -44,5 +48,6 @@ redirect_from:
 * Ming-song CHEN (MSc student, BIBMS, 2019)
 * Zhan-guo DONG (MSc student, LUT, 2020)
 * Xin YANG (MSc student, BIBMS, 2020)
+* Shao-gang LI (MSc student, BIBMS, 2020)
 
 
