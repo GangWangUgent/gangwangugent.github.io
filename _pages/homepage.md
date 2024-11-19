@@ -22,6 +22,7 @@ My current positions include:
 🔥 News & Events
 -
 * **📣 NAIVE实验室正在招募工程师，长期招收硕博生/保送生/实习生.** [Join Us!](https://gangwangugent.github.io//joinus/)
+* *2024.11*: &nbsp;🎉 1 paper accepted in *PLOS Biology* (IF=7.8, Q1).
 * *2024.09*: &nbsp; helped organize the symposium *Brain Inspired Computing* at the CNS2024 (organized by Prof. Luping Shi). 
 * *2024.09*: &nbsp;🎉 newly listed in the *2024 Beijing Nova Program (interdiscipline)*.
 * *2024.08*: &nbsp;🎉 1 paper accepted in *IEEE Trans. on Intelligent Transportation Systems* (IF=7.9, Q1).
@@ -123,7 +124,7 @@ My research career has been influenced by quite a few theories and techniques pr
 * [John F. Canny](https://en.wikipedia.org/wiki/John_Canny) (MIT, US)
   * The famous Canny edge detetor seems easy, but the internal computation is super charming. This work tells me how the signal processing, image processing and bio-vision meet together, from a super elegant perspective.
 * [Geoffrey Everest Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) (University of Toronto, Canada)
-  * He is the winner of Turing Award, noted for his work on DCNNs that have refreshed the vision field. I bought ideas from the deep learning features that are interestingly similar to the biological V1 RFs.  
+  * He is the winner of Nobel and Turing Award, noted for his work on DCNNs that have refreshed the vision field. I bought ideas from the deep learning features that are interestingly similar to the biological V1 RFs.  
 
 
 
