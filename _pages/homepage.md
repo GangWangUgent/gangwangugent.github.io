@@ -22,6 +22,7 @@ My current positions include:
 🔥 News & Events
 -
 * **📣 NAIVE实验室正在招募工程师，长期招收硕博生/保送生/实习生.** [Join Us!](https://gangwangugent.github.io//joinus/)
+* *2025.01*: &nbsp;🎉 1 paper accepted in *Frontiers in Computational Neuroscience* (IF=2.1, Q2).
 * *2024.11*: &nbsp;🎉 1 paper accepted in *PLOS Biology* (IF=7.8, Q1).
 * *2024.09*: &nbsp; helped organize the symposium *Brain Inspired Computing* at the CNS2024 (organized by Prof. Luping Shi). 
 * *2024.09*: &nbsp;🎉 newly listed in the *2024 Beijing Nova Program (interdiscipline)*.
@@ -30,7 +31,6 @@ My current positions include:
 * *2024.07*: &nbsp;🎉 1 paper published in *Applied Soft Computing* (IF=7.2, Q1).
 * *2024.07*: &nbsp; gave a talk in CCDM2024 titled '*Visual Motion Computing: Bio-models vs CV models*' (organized by Prof. Jian ZHAO).
 * *2024.07*: &nbsp; gave a talk in ISNN2024 titled '*Bio-inspired Visual Motion Saliency Estimation for Small Video Objects with Applications*'  (organized by Prof. Xiaolin HU).
-
 
 
 
