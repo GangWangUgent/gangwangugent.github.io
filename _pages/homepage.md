@@ -22,6 +22,7 @@ My current positions include:
 🔥 News & Events
 -
 * **📣 NAIVE实验室正在招募工程师，长期招收硕博生/保送生/实习生.** [Join Us!](https://gangwangugent.github.io//joinus/)
+* *2025.03*: &nbsp;🎉 1 paper accepted by *CVPR2025* (CCF-A).
 * *2025.01*: &nbsp;🎉 1 paper accepted in *Frontiers in Computational Neuroscience* (IF=2.1, Q2).
 * *2024.11*: &nbsp;🎉 1 paper accepted in *PLOS Biology* (IF=7.8, Q1).
 * *2024.09*: &nbsp; helped organize the symposium *Brain Inspired Computing* at the CNS2024 (organized by Prof. Luping Shi). 
