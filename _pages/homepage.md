@@ -22,6 +22,8 @@ My current positions include:
 🔥 News & Events
 -
 * **📣 NAIVE实验室正在招募工程师，长期招收硕博生/保送生/实习生.** [Join Us!](https://gangwangugent.github.io//joinus/)
+* *2025.05*: &nbsp;🎉 1 paper accepted by *ICML2025* (CCF-A).
+* *2025.04*: &nbsp;🎉 1 paper accepted by *IJCAI2025* (CCF-A).
 * *2025.03*: &nbsp;🎉 1 paper accepted by *CVPR2025* (CCF-A).
 * *2025.01*: &nbsp;🎉 1 paper accepted in *Frontiers in Computational Neuroscience* (IF=2.1, Q2).
 * *2024.11*: &nbsp;🎉 1 paper accepted in *PLOS Biology* (IF=7.8, Q1).
