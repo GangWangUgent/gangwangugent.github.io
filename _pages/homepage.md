@@ -10,7 +10,7 @@ Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuros
 My current positions include:
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS, Beijing
-* **Director**,                       Neuro-AI Vision Engineering Lab (**<font color=DodgerBlue>NAIVE</font>**), Beijing (类脑视觉工程实验室)
+* **Director**,                       Neuro-AI Vision Engineering Lab (**<font color=DodgerBlue>NAIVE</font>**), Beijing (类脑与脑机视觉工程实验室)
 * **Youth Professor**,                [Chinese Institute for Brain Research, China (北京脑科学与类脑研究所)](https://en.cibr.ac.cn/)
 * **Assoc. Professor**,               [University of Electronic Science and Technology of China (电子科技大学)](https://en.uestc.edu.cn/)
 
@@ -22,12 +22,14 @@ My current positions include:
 🔥 News & Events
 -
 * **📣 NAIVE实验室正在招募工程师，长期招收硕博生/保送生/实习生.** [Join Us!](https://gangwangugent.github.io//joinus/)
+* *2025.05*: &nbsp; received application certificate from the Beijing Airport.
+* *2025.05*: &nbsp; gave a talk at 中国电子频谱大会低空安全论坛 (中国电子学会主办).
 * *2025.05*: &nbsp;🎉 1 paper accepted by *ICML2025* (CCF-A).
 * *2025.04*: &nbsp;🎉 1 paper accepted by *IJCAI2025* (CCF-A).
 * *2025.03*: &nbsp;🎉 1 paper accepted by *CVPR2025* (CCF-A).
 * *2025.01*: &nbsp;🎉 1 paper accepted in *Frontiers in Computational Neuroscience* (IF=2.1, Q2).
 * *2024.11*: &nbsp;🎉 1 paper accepted in *PLOS Biology* (IF=7.8, Q1).
-* *2024.09*: &nbsp; helped organize the symposium *Brain Inspired Computing* at the CNS2024 (organized by Prof. Luping Shi). 
+* *2024.09*: &nbsp; helped organize the symposium *Brain Inspired Computing* at the CNS2024 (中国神经科学大会类脑智能论坛). 
 * *2024.09*: &nbsp;🎉 newly listed in the *2024 Beijing Nova Program (interdiscipline)*.
 * *2024.08*: &nbsp;🎉 1 paper accepted in *IEEE Trans. on Intelligent Transportation Systems* (IF=7.9, Q1).
 * *2024.08*: &nbsp;🎊 1 paper accepted in *Frontiers in Neuroscience* (IF=3.2, Q2).
@@ -57,7 +59,7 @@ My current positions include:
 
 🏆 Selected Honors & Awards
 -
-* 2021, **Young Talent on Science and Technology（高层次青年人才计划）**, from the Chinese Government
+* 2021, **Young Talent on Science and Technology（国家级高层次青年人才计划）**, from the Chinese Government
 * 2022, **Beijing Nova Program-innovation（北京市科技新星-创新新星）**, from the Beijing Municipal Sci&Tech Commission
 * 2024, **Beijing Nova Program-interdiscipline（北京市科技新星-交叉）**, from the Beijing Municipal Sci&Tech Commission
 * 2021, **Beijing CIBR Young Scholar (北脑青年学者)**, from the Beijing Municipal Sci&Tech Commission
@@ -69,11 +71,12 @@ My current positions include:
 
 📝 Selected Publications
 -
-1. **Gang Wang**#†, Xin Yang#, Liang Li, Kai Gao, Jin Gao, Jiayi Zhang, Dajun Xing, Yizheng Wang. Tiny drone object detection in videos guided by the bio-inspired magnocellular computation model[J]. *Applied Soft Computing*, 2024: 111892.  
-2. **Gang Wang**#†, Carlos Lopez-Molina, Bernard De Baets. High-ISO long-exposure image denoising based on quantitative blob characterization[J]. *IEEE Transactions on Image Processing*, 2020, 29: 5993-6005.
-3. Bo Huang, Jianan Li, Junjie Chen, **Gang Wang**†,  Jian Zhao†, Tingfa Xu†. Anti-UAV410: A thermal infrared benchmark and customized scheme for tracking drones in the wild[J]. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2024, 46(5): 2852-2865.
-4. Zizheng Xun, Shangzhe Di, Yulu Gao, Zongheng Tang, **Gang Wang**†, Si Liu, Bo Li. Linker: Learning long short-term associations for robust visual tracking [J]. *IEEE Transactions on Multimedia*. 2024(26): 6228-6237.
-5. Fengguang Peng, Zihan Ding, Ziming Chen, **Gang Wang**†, Tianrui Hui, Si Liu, Hang Shi. Region-adaptive and context-complementary cross modulation for RGB-T semantic segmentation[J]. *Pattern Recognition*, 2023: 110092. 
+1. Xueyao Ji#, **Gang Wang**#†, Yizheng Wang. Optical flow estimation for tiny objects: New problem, specialized benchmark, and bioinspired scheme. **IJCAI**. 2025. 
+2. Tiny drone object detection in videos guided by the bio-inspired magnocellular computation model[J]. *Applied Soft Computing*, 2024: 111892.
+3. Yu Che, Jing Lian, Zhaofei Yu, Jizhao Liu†, Jisheng Dang†, **Gang Wang**#†. A chaotic dynamics framework inspired by dorsal stream for event signal processing. **ICML**. 2025.
+4. **Gang Wang**#†, Carlos Lopez-Molina, Bernard De Baets. High-ISO long-exposure image denoising based on quantitative blob characterization[J]. **IEEE Transactions on Image Processing**, 2020, 29: 5993-6005.
+5. Bo Huang, Jianan Li, Junjie Chen, **Gang Wang**†,  Jian Zhao†, Tingfa Xu†. Anti-UAV410: A thermal infrared benchmark and customized scheme for tracking drones in the wild[J]. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, 46(5): 2852-2865.
+6. Zizheng Xun, Shangzhe Di, Yulu Gao, Zongheng Tang, **Gang Wang**†, Si Liu, Bo Li. Linker: Learning long short-term associations for robust visual tracking [J]. **IEEE Transactions on Multimedia**. 2024(26): 6228-6237.
 
 &nbsp; &nbsp; &nbsp; # : First author  
 &nbsp; &nbsp; &nbsp; † : Corresponding author
@@ -90,9 +93,6 @@ My current positions include:
 
 &nbsp;&nbsp;![image](https://github.com/user-attachments/assets/220bd3b8-b388-49b3-b290-0693ce4a9cb7)
 ![image](https://github.com/user-attachments/assets/03b9333b-c919-44ee-a444-8df677ece4c0)
-
-
-
 
 
 🤝 Mentorship & Partnership
