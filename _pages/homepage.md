@@ -56,6 +56,7 @@ My current positions include:
 * **Committee Member**, &nbsp; *Chinese Neuroscience Society (CNS), Youth Affairs Committee (中国神经科学学会青工委委员)*
 * **Committee Member**, &nbsp; *Chinese Association for Artificial Intelligence (CAAI), Youth Affairs Committee (中国人工智能学会青工委委员)*
 * **Committee Member**, &nbsp; *China Computer Federation (CCF), Computer Vision Branch (中国计算机学会计算机视觉专委会委员)*
+* **Committee Member**, &nbsp; *China Society of Image and Graphics (CSIG), Standardization Administration Committee (中国图象图形学会标准委委员)*
 * **AE**, &nbsp; [*Journal of Electronics & Information Technology*](https://jeit.ac.cn/indexen.htm)
 * **Reviewer**, &nbsp; *NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR*, etc.
 * **Keynote Speaker**, &nbsp; *CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar,* etc.
