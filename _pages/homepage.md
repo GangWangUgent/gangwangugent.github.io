@@ -6,11 +6,13 @@ redirect_from:
   - /homepage/
 ---
 
-Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by *neuroscience*, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*. 
+[中] BIBMS副研究员，北京脑科学与类脑研究所青年研究员/PI，类脑-脑机视觉工程实验室负责人。兼任中国神经科学学会青工委委员/类脑智能分会副秘书长、中国人工智能学会青工委委员、中国计算机学会计算机视觉专委会委员、中国图象图形学会标准委委员等；兼任JEIT等国内外期刊编委。获比利时根特大学博士学位，在类脑智能领域主持国家/省部级课题10余项，以第一/通讯作者在TPAMI、ICML、NeurIPS、ICCV等发表论文40余篇，多篇入选ESI高被引，谷歌被引~2000次。曾获CVPR2023和CVPR2025 Workshop国际竞赛冠军、BNAIC2019最佳学生论文提名等（均序1）。入选某领域高层次青年人才、北京市科技新星（创新、交叉）、北脑青年学者等。
+
+[EN] Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by *neuroscience*, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*. 
 My current positions include:
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS, Beijing
-* **Director**,                       Neuro-AI Vision Engineering Lab (**<font color=DodgerBlue>NAIVE</font>**), Beijing (类脑与脑机视觉工程实验室)
+* **Director**,                       Neuro-AI Vision Engineering Lab (**<font color=DodgerBlue>NAIVE</font>**), Beijing (类脑-脑机视觉工程实验室)
 * **Youth Professor**,                [Chinese Institute for Brain Research, China (北京脑科学与类脑研究所)](https://en.cibr.ac.cn/)
 * **Assoc. Professor**,               [University of Electronic Science and Technology of China (电子科技大学)](https://en.uestc.edu.cn/)
 
