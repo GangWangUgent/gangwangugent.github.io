@@ -53,9 +53,9 @@ My current positions include:
 🌏 Academic Services
 -
 * **Deputy Secretary-General**, &nbsp; *[Chinese Neuroscience Society (CNS)](https://www.cns.org.cn/en/)*, *[Brain-inspired Intelligence Branch (中国神经科学学会类脑智能分会副秘书长)](https://www.cns.org.cn/about_02_society_24.html)*
-* **Committee Member**, &nbsp; [*Chinese Neuroscience Society (CNS), Youth Affairs Committee (中国神经科学学会青工委委员)*](https://www.cns.org.cn/about_02_committee_03.html)
-* **Committee Member**, &nbsp; [*Chinese Association for Artificial Intelligence (CAAI), Youth Affairs Committee (中国人工智能学会青工委委员)*]
-* **Committee Member**, &nbsp; [*China Computer Federation (CCF), Computer Vision Branch (中国计算机学会计算机视觉专委会委员)*]
+* **Committee Member**, &nbsp; *Chinese Neuroscience Society (CNS), Youth Affairs Committee (中国神经科学学会青工委委员)*
+* **Committee Member**, &nbsp; *Chinese Association for Artificial Intelligence (CAAI), Youth Affairs Committee (中国人工智能学会青工委委员)*
+* **Committee Member**, &nbsp; *China Computer Federation (CCF), Computer Vision Branch (中国计算机学会计算机视觉专委会委员)*
 * **AE**, &nbsp; [*Journal of Electronics & Information Technology*](https://jeit.ac.cn/indexen.htm)
 * **Reviewer**, &nbsp; *NSFC/TPAMI/TIP/TMM/PR/NeurIPS/CVPR*, etc.
 * **Keynote Speaker**, &nbsp; *CCDM2024, ISNN2024, ISSDL2022, VALSE Webinar,* etc.
