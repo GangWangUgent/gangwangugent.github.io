@@ -70,10 +70,11 @@ My current positions include:
 * 2022, **Beijing Nova Program-innovation（北京市科技新星-创新新星）**, from the Beijing Municipal Sci&Tech Commission
 * 2024, **Beijing Nova Program-interdiscipline（北京市科技新星-交叉）**, from the Beijing Municipal Sci&Tech Commission
 * 2021, **Beijing CIBR Young Scholar (北脑青年学者)**, from the Beijing Municipal Sci&Tech Commission
+* 🏅2025, **1st Prize of the CVPR Anti-UAV Challenge**,  from the CVPR2025 Anti-UAV Challenge
 * 🏅2023, **1st Prize of the CVPR Anti-UAV Challenge**,  from the CVPR2023 Anti-UAV Challenge
 * 🏅2016, **1st Prize of the IDS Image Denoising Competition**, from the IDS2016
-* 2017, **Best Student Paper Nomination**, from the EUSFLAT2017
-* 2019, **Best Student Thesis Nomination**, from the BNAIC2019
+* 🏅2017, **Best Student Paper Nomination**, from the EUSFLAT2017
+* 🏅2019, **Best Student Thesis Nomination**, from the BNAIC2019
 * 2022, **Outstanding AE**, from the *JEIT* journal.
 
 📝 Selected Publications
