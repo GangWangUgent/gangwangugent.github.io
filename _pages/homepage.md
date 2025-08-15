@@ -90,14 +90,14 @@ My current research topics include:
 
 📝 Selected Publications
 -
-1. Xueyao Ji#, **Gang Wang**#†, Yizheng Wang. Optical flow estimation for tiny objects: New problem, specialized benchmark, and bioinspired scheme. **IJCAI**. 2025. 
-2. Jiahao Zhang, Zongli Jiang, Jinli Zhang†, Yixin Wei, Liang Li, Yizheng Wang, **Gang Wang**†. Tracking Tiny Drones against Clutter: Large-Scale Infrared Benchmark with Motion-Centric Adaptive Algorithm. **ICCV**. 2025.
+1. Jiahao Zhang, Zongli Jiang, Jinli Zhang†, Yixin Wei, Liang Li, Yizheng Wang, **Gang Wang**†. Tracking tiny drones against clutter: Large-scale infrared benchmark with motion-centric adaptive algorithm. **ICCV**. 2025.
+2. Xueyao Ji#, **Gang Wang**#†, Yizheng Wang. Optical flow estimation for tiny objects: New problem, specialized benchmark, and bioinspired scheme. **IJCAI**. 2025. 
 3. **Gang Wang**#†, Xin Yang#, et al,Tiny drone object detection in videos guided by the bio-inspired magnocellular computation model[J]. *Applied Soft Computing*, 2024.
 4. Yu Che, Jing Lian, Zhaofei Yu, Jizhao Liu†, Jisheng Dang†, **Gang Wang**#†. A chaotic dynamics framework inspired by dorsal stream for event signal processing. **ICML**. 2025.
 5. **Gang Wang**#†, Carlos Lopez-Molina, Bernard De Baets. High-ISO long-exposure image denoising based on quantitative blob characterization[J]. **IEEE Transactions on Image Processing**, 2020.
 6. Bo Huang, Jianan Li, Junjie Chen, **Gang Wang**†,  Jian Zhao†, Tingfa Xu†. Anti-UAV410: A thermal infrared benchmark and customized scheme for tracking drones in the wild[J]. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024.
 7. Zizheng Xun, Shangzhe Di, Yulu Gao, Zongheng Tang, **Gang Wang**†, Si Liu, Bo Li. Linker: Learning long short-term associations for robust visual tracking [J]. **IEEE Transactions on Multimedia**. 2024(26): 6228-6237.
-8. Jian Zhao, Gang Wang, et al. Anti-UAV Vision Perception[M]. 2025.
+8. Jian Zhao, **Gang Wang**, et al. Anti-UAV Visual Target Perception[M]. 2025.
 
 &nbsp; &nbsp; &nbsp; # : First author  
 &nbsp; &nbsp; &nbsp; † : Corresponding author
