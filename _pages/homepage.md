@@ -6,7 +6,7 @@ redirect_from:
   - /homepage/
 ---
 
-[中] 驻京某中心副研究员，北京脑科学与类脑研究所青年研究员/PI，电子科技大学副研究员，类脑-脑机视觉工程实验室负责人，硕士生导师。兼任中国神经科学学会青工委委员/类脑智能分会副秘书长、中国人工智能学会青工委委员、中国计算机学会计算机视觉专委会委员、中国图象图形学会标准委委员等；兼任JEIT等国内外期刊编委。获比利时根特大学博士学位，在类脑智能领域主持国家/省部级课题10余项，以第一/通讯作者在TPAMI、ICML、NeurIPS、ICCV等发表论文40余篇，多篇入选ESI高被引，谷歌被引~2000次。曾获CVPR2023和CVPR2025 Workshop国际竞赛冠军、BNAIC2019最佳学生论文提名等（均序1）。入选国家级高层次青年人才、北京市科技新星-创新、北京市科技新星-交叉、北脑青年学者等。
+[中] 驻京某中心副研究员，北京脑科学与类脑研究所青年研究员/PI，电子科技大学副研究员，类脑-脑机视觉工程实验室负责人，硕士生导师。兼任中国神经科学学会青工委委员/类脑智能分会副秘书长、中国人工智能学会青工委委员、中国计算机学会计算机视觉专委会委员、中国图象图形学会标准委委员等；兼任JEIT等国内外期刊编委。获比利时根特大学博士学位，在类脑智能领域主持国家/省部级课题10余项，以第一/通讯作者在TPAMI、ICML、NeurIPS、ICCV等发表论文40余篇，多篇入选ESI高被引，学术专著2部，谷歌被引~2000次。曾获CVPR2023和CVPR2025 Workshop国际竞赛冠军、BNAIC2019、EUSFLAT2017最佳学生论文提名等（均序1）。入选国家级高层次青年人才、北京市科技新星-创新、北京市科技新星-交叉、北脑青年学者等。
 
 [EN] Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by *neuroscience*, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*. 
 My current positions include:
@@ -24,12 +24,14 @@ My current positions include:
 🔥 News & Events
 -
 * **📣 NAIVE实验室正在招募工程师，长期招收硕博生/保送生/实习生.** [Join Us!](https://gangwangugent.github.io//joinus/)
+* *2025.09*: &nbsp;🎉 组织中国神经科学大会类脑计算研讨会.
+* *2025.09*: &nbsp;🎉 担任中国图象图形学会青年科学家会议脑科学与类脑智能论坛Co-Chair.
+* *2025.06*: &nbsp;🎉 1 paper accepted by **Neurocomputing** (Q1).
 * *2025.06*: &nbsp;🎉 1 paper accepted by **ICCV2025** (CCF-A).
 * *2025.06*: &nbsp;🎉 1 paper accepted by **IJCAI2025** (CCF-A).
 * *2025.05*: &nbsp;🎉🎉🎉 we won the **CVPR2025 Anti-UAV Challenge** (Track 2: Tracking and Detection).
 * *2025.05*: &nbsp; gave a talk at 中国电子频谱大会低空安全论坛 (中国电子学会主办).
 * *2025.05*: &nbsp;🎉 1 paper accepted by **ICML2025** (CCF-A).
-* *2025.04*: &nbsp;🎉 1 paper accepted by **IJCAI2025** (CCF-A).
 * *2025.03*: &nbsp;🎉 1 paper accepted by **CVPR2025** (CCF-A).
 * *2025.01*: &nbsp;🎉 1 paper accepted in *Frontiers in Computational Neuroscience* (IF=2.1, Q2).
 * *2024.11*: &nbsp;🎉 1 paper accepted in **PLOS Biology** (IF=7.8, Q1).
