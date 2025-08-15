@@ -9,12 +9,22 @@ redirect_from:
 [中] 驻京某中心副研究员，北京脑科学与类脑研究所青年研究员/PI，电子科技大学副研究员，类脑-脑机视觉工程实验室负责人，硕士生导师。兼任中国神经科学学会青工委委员/类脑智能分会副秘书长、中国人工智能学会青工委委员、中国计算机学会计算机视觉专委会委员、中国图象图形学会标准委委员等；兼任JEIT等国内外期刊编委。获比利时根特大学博士学位，在类脑智能领域主持国家/省部级课题10余项，以第一/通讯作者在TPAMI、ICML、NeurIPS、ICCV等发表论文40余篇，多篇入选ESI高被引，学术专著2部，谷歌被引~2000次。曾获CVPR2023和CVPR2025 Workshop国际竞赛冠军、BNAIC2019、EUSFLAT2017最佳学生论文提名等（均序1）。入选国家级高层次青年人才、北京市科技新星-创新、北京市科技新星-交叉、北脑青年学者等。
 
 [EN] Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by *neuroscience*, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*. 
+
 My current positions include:
 
 * **Vice Director/Assoc. Professor**, Brain Research Center, BIBMS, Beijing
 * **Director**,                       Neuro-AI Vision Engineering Lab (**<font color=DodgerBlue>NAIVE</font>**), Beijing (类脑-脑机视觉工程实验室)
 * **Youth Professor**,                [Chinese Institute for Brain Research, China (北京脑科学与类脑研究所)](https://en.cibr.ac.cn/)
 * **Assoc. Professor**,               [University of Electronic Science and Technology of China (电子科技大学)](https://en.uestc.edu.cn/)
+
+My current research topics include:
+
+* **类脑视觉感知**
+* **多时空尺度视觉解耦**
+* **智能模型生物合理性验证**
+* **多模态类脑大模型**
+* **类脑感知与具身系统**
+
 
 &nbsp; &nbsp; 📩 Please feel free to contact me: g_wang@foxmail.com / gang.wang@uestc.edu.cn
 <br>
