@@ -19,11 +19,10 @@ My current positions include:
 
 My current research topics include:
 
-* **类脑视觉感知**
-* **多时空尺度视觉解耦**
-* **智能模型生物合理性验证**
+* **视觉多时空尺度解耦**
+* **模型生物合理性验证**
 * **多模态类脑大模型**
-* **类脑感知与具身系统**
+* **类脑感知/具身系统**
 
 
 &nbsp; &nbsp; 📩 Please feel free to contact me: g_wang@foxmail.com / gang.wang@uestc.edu.cn
@@ -92,11 +91,13 @@ My current research topics include:
 📝 Selected Publications
 -
 1. Xueyao Ji#, **Gang Wang**#†, Yizheng Wang. Optical flow estimation for tiny objects: New problem, specialized benchmark, and bioinspired scheme. **IJCAI**. 2025. 
-2. Tiny drone object detection in videos guided by the bio-inspired magnocellular computation model[J]. *Applied Soft Computing*, 2024: 111892.
-3. Yu Che, Jing Lian, Zhaofei Yu, Jizhao Liu†, Jisheng Dang†, **Gang Wang**#†. A chaotic dynamics framework inspired by dorsal stream for event signal processing. **ICML**. 2025.
-4. **Gang Wang**#†, Carlos Lopez-Molina, Bernard De Baets. High-ISO long-exposure image denoising based on quantitative blob characterization[J]. **IEEE Transactions on Image Processing**, 2020, 29: 5993-6005.
-5. Bo Huang, Jianan Li, Junjie Chen, **Gang Wang**†,  Jian Zhao†, Tingfa Xu†. Anti-UAV410: A thermal infrared benchmark and customized scheme for tracking drones in the wild[J]. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024, 46(5): 2852-2865.
-6. Zizheng Xun, Shangzhe Di, Yulu Gao, Zongheng Tang, **Gang Wang**†, Si Liu, Bo Li. Linker: Learning long short-term associations for robust visual tracking [J]. **IEEE Transactions on Multimedia**. 2024(26): 6228-6237.
+2. Jiahao Zhang, Zongli Jiang, Jinli Zhang†, Yixin Wei, Liang Li, Yizheng Wang, **Gang Wang**†. Tracking Tiny Drones against Clutter: Large-Scale Infrared Benchmark with Motion-Centric Adaptive Algorithm. **ICCV**. 2025.
+3. **Gang Wang**#†, Xin Yang#, et al,Tiny drone object detection in videos guided by the bio-inspired magnocellular computation model[J]. *Applied Soft Computing*, 2024.
+4. Yu Che, Jing Lian, Zhaofei Yu, Jizhao Liu†, Jisheng Dang†, **Gang Wang**#†. A chaotic dynamics framework inspired by dorsal stream for event signal processing. **ICML**. 2025.
+5. **Gang Wang**#†, Carlos Lopez-Molina, Bernard De Baets. High-ISO long-exposure image denoising based on quantitative blob characterization[J]. **IEEE Transactions on Image Processing**, 2020.
+6. Bo Huang, Jianan Li, Junjie Chen, **Gang Wang**†,  Jian Zhao†, Tingfa Xu†. Anti-UAV410: A thermal infrared benchmark and customized scheme for tracking drones in the wild[J]. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024.
+7. Zizheng Xun, Shangzhe Di, Yulu Gao, Zongheng Tang, **Gang Wang**†, Si Liu, Bo Li. Linker: Learning long short-term associations for robust visual tracking [J]. **IEEE Transactions on Multimedia**. 2024(26): 6228-6237.
+8. Jian Zhao, Gang Wang, et al. Anti-UAV Vision Perception[M]. 2025.
 
 &nbsp; &nbsp; &nbsp; # : First author  
 &nbsp; &nbsp; &nbsp; † : Corresponding author
