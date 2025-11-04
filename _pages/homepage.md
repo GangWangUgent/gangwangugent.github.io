@@ -33,13 +33,15 @@ My current research topics include:
 🔥 News & Events
 -
 * **📣 NAIVE实验室正在招募工程师，长期招收硕博生/保送生/实习生.** [Join Us!](https://gangwangugent.github.io//joinus/)
+* *2025.10*: &nbsp;🎉 1 paper published in **Nature Communications** (Q1).
+* *2025.10*: &nbsp;🎉 中国电子学会青年年会（中国电子学会主办）学术报告.
 * *2025.09*: &nbsp;🎉 组织中国神经科学大会类脑计算研讨会.
 * *2025.09*: &nbsp;🎉 担任中国图象图形学会青年科学家会议脑科学与类脑智能论坛Co-Chair.
 * *2025.06*: &nbsp;🎉 1 paper accepted by **Neurocomputing** (Q1).
 * *2025.06*: &nbsp;🎉 1 paper accepted by **ICCV2025** (CCF-A).
 * *2025.06*: &nbsp;🎉 1 paper accepted by **IJCAI2025** (CCF-A).
 * *2025.05*: &nbsp;🎉🎉🎉 we won the **CVPR2025 Anti-UAV Challenge** (Track 2: Tracking and Detection).
-* *2025.05*: &nbsp; gave a talk at 中国电子频谱大会低空安全论坛 (中国电子学会主办).
+* *2025.05*: &nbsp; 中国电子频谱大会低空安全论坛（中国电子学会主办）学术报告.
 * *2025.05*: &nbsp;🎉 1 paper accepted by **ICML2025** (CCF-A).
 * *2025.03*: &nbsp;🎉 1 paper accepted by **CVPR2025** (CCF-A).
 * *2025.01*: &nbsp;🎉 1 paper accepted in *Frontiers in Computational Neuroscience* (IF=2.1, Q2).
