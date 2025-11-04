@@ -6,7 +6,7 @@ redirect_from:
   - /homepage/
 ---
 
-[中] 驻京某中心副研究员，北京脑科学与类脑研究所青年研究员/PI，电子科技大学副研究员，类脑-脑机视觉工程实验室负责人，硕士生导师。兼任中国神经科学学会青工委委员/类脑智能分会副秘书长、中国人工智能学会青工委委员、中国计算机学会计算机视觉专委会委员、中国图象图形学会标准委委员等；兼任JEIT等国内外期刊编委。获比利时根特大学博士学位，在类脑智能领域主持国家重大科技专项青年科学家、国自然等国家/省部级课题10余项，以第一/通讯作者在TPAMI、ICML、NeurIPS、ICCV等发表论文40余篇，多篇入选ESI高被引，学术专著2部，谷歌被引~2000次。曾获CVPR2023和CVPR2025 Workshop国际竞赛冠军、BNAIC2019、EUSFLAT2017最佳学生论文提名等（均序1）。入选国家级高层次青年人才、北京市科技新星-创新、北京市科技新星-交叉、北脑青年学者等。
+[中] 驻京某中心副研究员，北京脑科学与类脑研究所青年研究员/PI，电子科技大学副研究员，类脑-脑机视觉工程实验室负责人，国家重大科技专项青年科学家，硕士生导师。兼任中国神经科学学会青工委委员/类脑智能分会副秘书长、中国人工智能学会青工委委员、中国计算机学会计算机视觉专委会委员、中国图象图形学会标准委委员等；兼任JEIT等国内外期刊编委。获比利时根特大学博士学位，在类脑智能领域主持国自然、国家脑计划、北自然等国家/省部级课题10余项，以第一/通讯作者在Nature Communications、TPAMI、ICML、NeurIPS、ICCV等发表论文40余篇，多篇入选ESI高被引，学术专著2部，谷歌被引~2000次。曾获CVPR2023和CVPR2025 Workshop国际竞赛冠军、BNAIC2019、EUSFLAT2017最佳学生论文提名等（均序1）。入选国家级高层次青年人才、北京市科技新星-创新、北京市科技新星-交叉、北脑青年学者等。
 
 [EN] Following the pioneer [D. Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist))'s theory, I mainly focus on computational vision inspired by *neuroscience*, seeking favorable solutions for *motion/static feature extraction* and *visual object detection/tracking*. 
 
@@ -90,14 +90,15 @@ My current research topics include:
 
 📝 Selected Publications
 -
-1. Jiahao Zhang, Zongli Jiang, Jinli Zhang†, Yixin Wei, Liang Li, Yizheng Wang, **Gang Wang**†. Tracking tiny drones against clutter: Large-scale infrared benchmark with motion-centric adaptive algorithm. **ICCV**. 2025.
-2. Xueyao Ji#, **Gang Wang**#†, Yizheng Wang. Optical flow estimation for tiny objects: New problem, specialized benchmark, and bioinspired scheme. **IJCAI**. 2025. 
-3. **Gang Wang**#†, Xin Yang#, et al,Tiny drone object detection in videos guided by the bio-inspired magnocellular computation model[J]. *Applied Soft Computing*, 2024.
-4. Yu Che, Jing Lian, Zhaofei Yu, Jizhao Liu†, Jisheng Dang†, **Gang Wang**#†. A chaotic dynamics framework inspired by dorsal stream for event signal processing. **ICML**. 2025.
-5. **Gang Wang**#†, Carlos Lopez-Molina, Bernard De Baets. High-ISO long-exposure image denoising based on quantitative blob characterization[J]. **IEEE Transactions on Image Processing**, 2020.
-6. Bo Huang, Jianan Li, Junjie Chen, **Gang Wang**†,  Jian Zhao†, Tingfa Xu†. Anti-UAV410: A thermal infrared benchmark and customized scheme for tracking drones in the wild[J]. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024.
-7. Zizheng Xun, Shangzhe Di, Yulu Gao, Zongheng Tang, **Gang Wang**†, Si Liu, Bo Li. Linker: Learning long short-term associations for robust visual tracking [J]. **IEEE Transactions on Multimedia**. 2024(26): 6228-6237.
-8. Jian Zhao, **Gang Wang**, et al. Anti-UAV Visual Target Perception[M]. 2025.
+1. Zhong Zheng#, Jing Wei#, Yaru Xu, Chenhua Li, Tianying Lu, Qili Guo, Xueyao Ji, Hao Guo†, **Gang Wang**† & Lei Deng†. Modeling macroscopic brain dynamics with brain-inspired computing architecture[J]. Nature Communications, 2025, 16(1): 9424.
+2. Jiahao Zhang, Zongli Jiang, Jinli Zhang†, Yixin Wei, Liang Li, Yizheng Wang, **Gang Wang**†. Tracking tiny drones against clutter: Large-scale infrared benchmark with motion-centric adaptive algorithm. **ICCV**. 2025.
+3. Xueyao Ji#, **Gang Wang**#†, Yizheng Wang. Optical flow estimation for tiny objects: New problem, specialized benchmark, and bioinspired scheme. **IJCAI**. 2025. 
+4. **Gang Wang**#†, Xin Yang#, et al,Tiny drone object detection in videos guided by the bio-inspired magnocellular computation model[J]. *Applied Soft Computing*, 2024.
+5. Yu Chen, Jing Lian, Zhaofei Yu, Jizhao Liu†, Jisheng Dang†, **Gang Wang**#†. A chaotic dynamics framework inspired by dorsal stream for event signal processing. **ICML**. 2025.
+6. **Gang Wang**#†, Carlos Lopez-Molina, Bernard De Baets. High-ISO long-exposure image denoising based on quantitative blob characterization[J]. **IEEE Transactions on Image Processing**, 2020.
+7. Bo Huang, Jianan Li, Junjie Chen, **Gang Wang**†,  Jian Zhao†, Tingfa Xu†. Anti-UAV410: A thermal infrared benchmark and customized scheme for tracking drones in the wild[J]. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024.
+8. Zizheng Xun, Shangzhe Di, Yulu Gao, Zongheng Tang, **Gang Wang**†, Si Liu, Bo Li. Linker: Learning long short-term associations for robust visual tracking [J]. **IEEE Transactions on Multimedia**. 2024(26): 6228-6237.
+9. Jian Zhao, **Gang Wang**, et al. Anti-UAV Visual Target Perception[M]. 2025.
 
 &nbsp; &nbsp; &nbsp; # : First author  
 &nbsp; &nbsp; &nbsp; † : Corresponding author
@@ -105,6 +106,7 @@ My current research topics include:
 
 🏦 Funds
 -
+* *Chinese Brain Project*
 * *National Natural Science Fundation of China (NSFC)*
 * *Beijing Natural Science Foundation* 
 * *Beijing Nova Program Fund*
