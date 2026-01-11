@@ -19,7 +19,7 @@ Many advanced technologies have been applied to real-world scenarios, creating c
 Research topics include the bio-inspired vision computation, image processing and visual object detection/tracking.
 
 [中] NAIVE实验室位于北京市海淀区五棵松附近，是依托三个省部级实验室建立的“神经科学-智能科学”交叉研究型实验室，具有动物神经机制解析、类脑算法开发、系统开发应用等全链条平台，能够支撑从“湿实验室”到“干实验室”的多层次类脑智能研究。实验室人才梯队合理，科研实力雄厚，项目经费充足，学术成果丰硕，工作氛围极佳。实验室与国内十多家top大学、科研机构及央企建立了长期稳定的协同创新合作框架，已有多项先进技术获得实际应用，创造了良好的经济效益和社会价值。
-目前研究方向包括：*视觉神经机制计算建模（SNN或ANN）、图像处理（Classical/Deep）、目标检测跟踪（Deep）*。
+目前研究方向包括：*视觉神经机制解析(Mouse/Monkey)、脑机制建模（SNN/DL）、计算机视觉（CV/VLM）、具身智能体（VLA/Robot)*。
 
 👨‍🎓 Prospective Students (招生)
 -
