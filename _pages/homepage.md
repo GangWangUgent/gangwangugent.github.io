@@ -20,7 +20,7 @@ My current positions include:
 My current research topics include:
 
 * **脑视觉原理解析**
-* **多域协同类脑视觉理论**
+* **类脑全通路视觉原语**
 * **类脑具身智能**
 
 
